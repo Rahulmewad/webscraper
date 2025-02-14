@@ -1,0 +1,5247 @@
+{
+  "configuration" : {
+    "assets" : {
+      "exterior" : {
+        "flyout" : "/fast/H4sIAAAAAAAAAC2TS47kRBCG3V2agdkMAoQQFyghjURk2ulHLUpohtmxQQKx6UUr0k5nZjn9qHy4qn0UzjBn4AIcgQUcACQkNmyQiBrhRXyK3xG_HWHnuz-zZ8lnu4eHN9_--8VnWv9a32fZdcmy7I70-4c37_7-_J_nH_7w-__y7qdst0z6jgq6-xd2RK2A8o-yD0jJnpF-l9_CHxSeP1LY_ZK9jzfxr1vbb7f8_uddlr3I3vvdrpcvk3cLehy_av28TB9_WZVFWUheNr08lDznnazb4tCzmsu2y4u8VmVVs1Z8Qh53nUowjX0LWiJGwSFnuQAuXkkhBZTVq6cREJNiCCjnyjBA1fGoAfUopAV0-qxIDKq6tgRXBkfwpU8g0fABCSvfNEhq708ge2QJoTWYk1lr_PnEoFO26JEw6FhB11MlA9X1TI2grClHJLh6LEEtpr5yUCEkVUOvjPCCkCpk0JvLSn29C80gQI9zbEvQHpt4AB0WzVowcq0WBKNCeeJg7FhNJ0Iopg3MgIOpwIRLYzuwU0glgvVBuBwG9EPjCeE8UDab4lwR1nLrYQhpoKcPWyz4AE6aQiO4djmfGbhO94mg0DFH8AUN7WZfLwSP_EqVfqUFgQuq8VSSxtqQePHNmcOIoaLtjl3oR8KQmq2EcUZLK6DxOlvBpFwTJcyTU47DIo0ga4-dYJYw2-ZCSIcTglee6wZ8iExy8KmfthyC9M2KEPTALYNg5cQkQRVkFqwReBM35i4QJqxdBWFJ9ROJ3lS2gBCMGFoIsc9P1EdvfWUQh1XYHOKqzmsB8WnLtwaSNox-onUOZ06I62G7wiUEoXvYJDb0-Tfp8wuBZo0dbFaJjbJhLTD_Wk2r9fM0qikev4-ps_P-YrtojvyQs71RVpt45EKwPbrF4DH6pPYtjsrj8fWP3-VvH18_Fo-Mscdv5rd7nOj8RTtP4fjpjm7_B1I5-gzNAwAA",
+        "fullscreen.new" : "/fast/H4sIAAAAAAAAAC2TzY7kNBDHM9OaBa3EIkAI8QItpJUoO3HS6UML7TIHJC4rgbjMYVROHNsd56P9ke7JI6G98hQ8AhceAC7DhQsS1YhL_VR_17-cqiTv_8zuks82Dw9vv__ny8-1_m13m2WXOcuyG9JvH96-_-uLv198-OPv_8ubn7O7mLycbqjk3e1LO6BWcJyV_uj5-fnj7AOSszs6vMmv4Q8KLx4pbH7N_otXm7yGX6757bCh6gsdfHf1Za9eJe9m9Dh83fhpHj_5Ksdq38mmrSUqJqu2qGTNse32VSllXjUS82rH9_JT6vGyVQlG0XABWiJGwSFnuQAuXkshBZTV66cBEJNiCCinyjBA1fKoAfUgpAV0-qRIDKq6NARXBkfwpU8g0fAeCQtfNUiyd0eQHbKE0BjMqVlj_OnIoFW26JDQ61hB21ElA9V2TA2grCkHJLjdUIKaze7CQYWQ1A46ZYQXhFQhg86cF_J1LtQ9DTRMsSlBe6zjHnSYNWvAyKWaEYwK5ZGDsUM1HgmhGFcwPfamAhPOtW3BjiGVCNYH4XLo0fe1J4RTT9lkilNFWMq1gz6knm7v11jwHpw0hUZwzXw6MXCt7hJBoWOO4Asa2k1-NxM88gtV-oUWBC6o2lNJGnaGxLOvTxwGDBVtd2hDNxD6VK8lDBNaWgGN19oKRuXqKGEanXIcZmkEtfbYCmYJk63PhLQ_Injlua7Bh8gkB5-6cc0hSF8vCEH33DIIVo5MElRBzYI1Aq_iytwZwog7V0GY0-6JRG8qW0AIRvQNhNjlR_LRU18YxH4RNoe4qNNSQHxa87WGpA2jj2iZwokT4rJfL3AOQegOVok1vf5V-vxMoFljC6tVYqWsXwrMv1HjYv00DmqMhx9iau20Pds2mgPf52xrlNUmHrgQbItuNniIPqltg4PyeHjz07v8_vHNY_HIGHv8drrf4kh_YbTTGA73-OSu5s82VPYvf3mtIN0DAAA",
+        "stage.new" : "/fast/H4sIAAAAAAAAAC2TvY7kRBDHvTvaA53EIUAI8QCMkE6iuv01nmCE7tiM5CQQyQajarvd3eP2V394Zp3c-5wu5iV4BBIkUkiWhASJGkRSP9ff9S-7yu73fyZ30SWbh4fX3__z5edK_bq7TZLLlCTJDem3D6_f__XF388-_PG3_-XNu-QuRCfGGyp5c_vc9KgknCapPnp6evo4-YDk5I5u3qTX8AeFZ0cKm1-S_-LV9vs1fHXNb95uqPpCFz9ffcmLF9HZCR3239RunIZPvk6x3LeibiqBkomyyUpRcWzafVkIkZa1wLTc8b34lJo_b2SEIat5DkoghpxDytIceP5S5CKHonz52ANilAwBxVhqBigbHhSg6nNhAK2aJYlelpeaYAtvCa5wEQRq3iFh4asCQfb2BKJFFhFqjSk1q7WbTwwaabIWCZ0KJTQtVTKQTctkD9LookeC3fUFyEnvLhyk91HuoJU6dzkhlsig1eeFfK31VUcD9WOoC1AOq7AH5SfFatBiKScELX1x4qBNXw4ngs-GFXSHnS5B-3NlGjCDjwWCcT63KXTousoR_NxRNupsLglLsbbQ-djR07s1ZLwDK3SmEGw9zTMD26g2EiRaZgkuo6Ht6HYTwSG_UKVbaEFgvawclcR-p0k8u2rm0KMvabt949ue0MVqLaAf0dAKaLzGlDBIWwUB42Cl5TAJnVNrh03ODGE01ZkQ9ycEJx1XFTgfmODgYjusKXjhqgXBq44bBt6IgQmCzKiZNzrHq7gyewY_4M6W4Ke4eyTR6dJk4L3Ouxp8aNMT-eitLwxCt-QmhbDIeckgPK7pWkFUmtFPtIx-5oSw7NcLnL3PVQurwIo-_ypceibQrKGB1ch8paxbMky_lcNi3Dj0cgiHH0JszLg9myboA9-nbKulUToceJ6zLdpJ4yG4KLc19tLh4dVPb9L746tjdmSMHb8b77c40CkMZhz84R4f7dX82YbK_gWPVlnw3QMAAA"
+      },
+      "exterior_front" : {
+        "carstore.new" : "/fast/H4sIAAAAAAAAAC2TvY7cNhDHdXe52HDhIAmMIIDrhQEDGVKitNpiEdi5Lo2BBGkOyGEoUSRX1MfyQ7unKk_jyo_ht0jjF3CVJk2AzAZp5qf5z4c4I_HD5-w2-ezm_v7tz_98_0LrP7fXWXaesyy7Iv36_u2Hv777-8unv376X755n93G5OV0RSnvrp_ZAbWCw6z0V9kTkrLbS8CRuTJknrwk88Uf_z1ll8iri8kv4Sq7Ifs7uR8vddnz58m7GT0OPzR-msevXwkpyqqoWxRF0RWKFRWTDNkuL3it2kqhYFh0FfuGjvWsVQnGsmEctESMgkPOcgFcvJbUB8rq9eMAiEkxBJRTZRigannUgHoQ0gI6fVQkBlWdG4IrgyP40ieQaHiPhIWvGiSVdweQHbKE0BjMqVlj_PHAoFW26JDQ61hB21EmA9V2TA2grCkHJLjtUIKazfbMQYWQ1BY6ZYQXhFQhg86cFqrrXKh7AXqYYlOC9ljHHegwa9aAkUs1IxgVygMHY4dqPBBCMa5geuxNBSacatuCHUMqEawPwuXQo-9rTwjHnrzJFMeKsJRrB31IPb29X2PBe3DSFBrBNfPxyMC1uksEhY45gi9oaDf57UzwyM-U6RdaELigak8padgaEk--PnIYMFS03aEN3UDoU72WMExoaQU0XmsrGJWro4RpdMpxmKUR1NpjK5glTLY-EdLugOCV57oGHyKTHHzqxjWHIH29IATdc8sgWDkySVAFNQvWCLyIK3MnCCNuXQVhTttHEr2pbAEhGNE3EGKXH6iOTn1mEPtF2Bzioo5LAfFxzdcakjaMfqJlCkdOiMtuPcMpBKE7WCXW9PlX6fMTgWaNLaxWiZW8fikw_1GNi_XTOKgx7n-JqbXT5mTbaPZ8l7ONUVabuOdCsA262eA--qQ2DQ7K4_7Nb-_yu4c3D_kDY_nDT9PdBke6gdFOY9jf4aO7FH97Q2n_As-H0THZAwAA",
+        "compare.new" : "/fast/H4sIAAAAAAAAAC2Tz6vkRBDH8964ruthRRcRwfMgLFjdSSeTOQyy68PLXgRFhCc8qpNOd086P6Z_ZOblIP4vXvc_2ov_gCcvXhasES_1ob75VnVXJXn7V_Yk-Wxzf__6zfsvP9f63e42yy5zlmU3pN_ev3779xf_fPjRT3_-L2_-yDbzqG_I0N4-swNqBZR_kj0lJXty1R2FG0Ph6VcUPvg9-y9exe-vj3-95je_bchN2e0v17rs-fPk3Yweh28aP83jp18LKcqqqFsURdEVihUVkwzZPi94rdpKoWBYdBX7jO70casSjHXDOGiJGAWHnOUCuHgpqQ-U1cvHARCTYggop8owQNXyqAH1IKQFdPqkSAyqujQEVwZH8KVPINHwHgkLXzVIKu-OIDtkCaExmFOzxvjTkUGrbNEhodexgrYjJwPVdkwNoKwpByS43VCCms3uwkGFkNQOOmWEF4RUIYPOnBeq61yoewF6mGJTgvZYxz3oMGvWgJFLNSMYFcojB2OHajwSQjGuYHrsTQUmnGvbgh1DKhGsD8Ll0KPva08Ip56yyRSnirCUawd9SD2d3q-x4D04aQqN4Jr5dGLgWt0lgkLHHMEXNLSb_G4meOQXcvqFFgQuqNqTJQ07Q-LZ1ycOA4aKtju0oRsIfarXEoYJLa2AxmttBaNydZQwjU45DrM0glp7bAWzhMnWZ0LaHxG88lzX4ENkkoNP3bjmEKSvF4Sge24ZBCtHJgmqoGbBGoFXcWXuDGHEnasgzGn3SKI3lS0gBCP6BkLs8iPV0a0vDGK_CJtDXNRpKSA-rvlaQ9KG0Ue0TOHECXHZrxc4hyB0B6vEml7_Kn1-JtCssYXVKrFS1i8F5t-qcbF-Ggc1xsOPMbV22p5tG82B73O2NcpqEw9cCLZFNxs8RJ_UtsFBeTy8-vmH_O7h1UP-wFj-8N10t8WRfsBopzEc7vDRXYtfbMj2L_o4-HLWAwAA",
+        "layerstage.new" : "/fast/H4sIAAAAAAAAAC2TzY7kNBDHMzMMi1ZiEV9CSJwbpJUoO3HS6UML7TI3LotAXOYwKieO7Y7z0f5I9-TE86B9EN6BCy_AZRASFySqEZf6qf7-V8VVSd7-kd0mn93c37_-7p_PP9X6t-11lp3nLMuuSL--f_32z8_-fve9H3__X775JbuNycvpiixvrp_bAbWCw6z0-09PTx9kz0jObi-HjsKVofDsCwrv_Jz9Fy8nf13C95f86tcbcn-SZddfXuqyFy-SdzN6HL5u_DSPH34lpCirom5RFEVXKFZUTDJku7zgtWorhYJh0VXsI7ra81YlGPOGcdASMQoOOcsFcPFSUh8oq5ePAyAmxRBQTpVhgKrlUQPqQUgL6PRRkRhUdW4IrgyO4EufQKLhPRIWvmqQVN4dQHbIEkJjMKdmjfHHA4NW2aJDQq9jBW1HTgaq7ZgaQFlTDkhw26EENZvtmYMKIaktdMoILwipQgadOS1U17lQ9wL0MMWmBO2xjjvQYdasASOXakYwKpQHDsYO1XgghGJcwfTYmwpMONW2BTuGVCJYH4TLoUff154Qjj1lkymOFWEp1w76kHp6er_GgvfgpCk0gmvm45GBa3WXCAodcwRf0NBu8tuZ4JGfyekXWhC4oGpPljRsDYknXx85DBgq2u7Qhm4g9KleSxgmtLQCGq-1FYzK1VHCNDrlOMzSCGrtsRXMEiZbnwhpd0DwynNdgw-RSQ4-deOaQ5C-XhCC7rllEKwcmSSogpoFawRexJW5E4QRt66CMKftI4neVLaAEIzoGwixyw9UR7c-M4j9ImwOcVHHpYD4uOZrDUkbRh_RMoUjJ8Rlt57hFILQHawSa3r9q_T5iUCzxhZWq8RKWb8UmH-jxsX6aRzUGPc_xNTaaXOybTR7vsvZxiirTdxzIdgG3WxwH31SmwYH5XH_6qc3-d3Dq4f8gbH84dvpboMj_YXRTmPY3-GjuxR_fEO2fwHIKqgr3QMAAA"
+      },
+      "interior" : {
+        "fullscreen.new" : "/fast/H4sIAAAAAAAAAD2Ty67kNBCGM6d1GITQcBkhxAu0kEainMS59KKFzswskNiMxGVzFq1y4tjuODdf0n2y4hF4DBbzRmx4AVZs2CBR5wix-b_4d1XFVU7e_5ncRpfs7u9ff__PV18o9Xt1kyTXOUmSZ-Tf3L9-_9eXf3_w4Y9__GfvfktuQ3RiekYh724-MgMqCedZqk-S52Qlt48byaP8SvL8F5LbT5Mn_X_nSXff7ci8Pj48WS9eRGdndDh807hpHj_7WnS8qPKiFVWBVSOLA8_yOuNFzpCRU5dYZGWL4nOq8XErI4x8ZAUogRh4ChnLOKT8leCCQ1G-ehgAMUqGgGIqNQOUbRoUoBq4MIBWLZJML8trQ7CFtwRXuAgCddojYU03BYLSuzOIDllEaDRmVKzRbjkzaKXJOyT0KpTQdhTJQLYdkwNIo4sBCbYaCpCzrq4pSO-jrKCTmjtOiCUy6PRlpbzO-rrnoIYpNNSXwzocQPlZsQa0WMsZQUtfnFPQZijHM8Hn4wa6x16XoP2lNi2Y0ccCwTjPbQY9ur52BL_0tJp0vpSEtdg66H3s6e39FvK0Byt0rhBsMy8LA9uqLhIkWmYJLqem7eSqmeAwvVKkW2lAYL2sHYXEodJkXly9pDCgL2m6Q-u7gdDHeitgmNDQCKi91pQwSlsHAdNopU1hFppTaYctZ4YwmfpCiIczgpMuVTU4H5hIwcVu3DLwwtUrgld9ahh4I0YmCDKnYt5ojo_mxuwF_IiVLcHPsXog0-nS5OC95n0DPnTZmfLo1FcGoV-5ySCscllzCA9bttUQlWb0Ea2TX1JCWA_bFS7ec9XBJrCm69-Eyy4E6jW0sBnJN1r1a47Zt3JcjZvGQY7h-EOIrZn2F9MGfUwPGdtraZQOx5Rztkc7azwGF-W-wUE6PL6V3qjxdPdTVl1Pd-npzSk9McZOb6a3exzpXwxmGv3x5e7u53f_Ap96nvjbAwAA"
+      }
+    },
+    "ave" : "a1sb,GBAAT4,2024,B4B4,YM,E0A,6H0,1PA,1TG,UG0,4BI,1D0,4UF,1E5,QE0,6XC,EA0,5SL,5RU,0K0,1X0,A9F,6K2,1KA,J4J,1ZG,6FJ,0UA,B0A,1S2,1AS,0VC,2H0,QJ0,C36,0C0,IT0,3FA,GT6,1JP,6F0,G01,1Y3,NI0,EF0,0EM,7AA,5MA,7M5,7X1,7W0,UE7,0FD,4R4,6A0,VL6,VF0,8K4,F0A,8GU,0YH,L04,TC5,8T9,G0C,6PA,A51,5J1,8M1,0N1,6NJ,3NZ,KH6,8ID,U5A,4L2,K8R,QK2,1W0,0Y1,QR8,3Q6,GB0,5ZF,1Z0,A60,1A7,3G0,KA0,KK3,31K,5K7,3GA,QQ0,FU0,L0L,1N1,3H0,8G0,7P0,1XA,AV1,8RL,2C5,1L0,7HA,8Q1,6E0,FM0,9S0,EM0,8Z5,IX1,DI6,AW1,7Q0,8TB,8WA,EL1,4P0,FQ0,AQ0,40I,I8W,9JA,ER1,7K1,H9H,V0A,1G8,0B1,3QT,NZ2,4X3,7F9,2KR,8VA,QI6,1I0,3ZU,N0B,3L1,4A0,0LW,8QM,7L6,QH1,7Y0,6I3,4KC,2JB,0AR,FA0,2UA,8X0,8N6,4I2,B01,5D1,0A2,QV3,1SA,1EX,2Z8,00A,1T3,Q1A,9ZX,EW0,QG1,7E0,4GF,8W1,8FA,2WA,0TD,4ZA,3A2,9M0",
+    "carline" : "a1sb",
+    "carlineName" : "A1 Sportback",
+    "description" : "25 TFSI Schaltgetriebe",
+    "eec" : {
+      "canonical-source" : "NEDC_FALLBACK_WLTP",
+      "co2emission" : "- ",
+      "consumption" : "- ",
+      "consumptioninner" : "- ",
+      "consumptionouter" : "- ",
+      "efficiency" : "-",
+      "efficiency-images" : {
+        "eec_image" : "https://mediaservice.audi.com/media/b2c/v6-common/img-HEAD.zip/v6/new_eec/eec-label-none.png",
+        "eec_image_small" : "https://mediaservice.audi.com/media/b2c/v6-common/img-HEAD.zip/v6/new_eec/eec-label-none-small.png"
+      },
+      "energycost" : "2.112&nbsp;EUR",
+      "wltp-status" : "wltp",
+      "yearlytaxcost" : "79&nbsp;EUR"
+    },
+    "extColorCode" : {
+      "backgroundColor" : "#EAEAE6",
+      "selected" : "B4",
+      "textColor" : "black"
+    },
+    "financeParameterList" : [ {
+      "id" : "Duration",
+      "name" : "Laufzeit",
+      "relevant" : true,
+      "text" : "36",
+      "textAndUnit" : "36 Monate",
+      "unit" : "Monate",
+      "value" : "36"
+    }, {
+      "id" : "Mileage",
+      "name" : "Jährliche Fahrleistung",
+      "relevant" : true,
+      "text" : "10.000",
+      "textAndUnit" : "10.000 km",
+      "unit" : "km",
+      "unitSymbol" : "km",
+      "value" : "10000"
+    }, {
+      "id" : "DownPayment",
+      "name" : "Sonderzahlung",
+      "relevant" : true,
+      "text" : "4.460,00",
+      "textAndUnit" : "4.460,00 €",
+      "unit" : "EUR",
+      "unitSymbol" : "€",
+      "value" : "4460"
+    }, {
+      "id" : "LRV",
+      "name" : "Leasingratenversicherung",
+      "relevant" : true,
+      "text" : "keine",
+      "textAndUnit" : "keine",
+      "value" : "NONE"
+    }, {
+      "id" : "Rate",
+      "name" : "36 monatliche Leasingraten à",
+      "relevant" : false,
+      "text" : "232,00",
+      "textAndUnit" : "232,00 €",
+      "unit" : "EUR",
+      "unitSymbol" : "€",
+      "value" : "232"
+    }, {
+      "id" : "AudiServices_New",
+      "name" : "Service Pakete",
+      "relevant" : true,
+      "text" : "keine",
+      "textAndUnit" : "keine",
+      "value" : "NONE"
+    } ],
+    "financeParameters" : "Laufzeit: 36 Monate, Jährliche Fahrleistung: 10.000 km, Sonderzahlung: 4.460,00 €, Leasingratenversicherung: keine, 36 monatliche Leasingraten à: 232,00 €, Service Pakete: keine (mit PrivatLeasing)",
+    "financeProductDisclaimer" : "Die Höhe der monatlichen Rate ist abhängig von Sonderzahlung, jährlicher Fahrleistung und Laufzeit sowie ggf. ausgewählten Dienstleistungen.",
+    "financeProductId" : "PL",
+    "financeProductName" : "PrivatLeasing",
+    "financeSummaryDisclaimer" : "Ein unverbindliches Leasingangebot der Audi Leasing, Zweigniederlassung der Volkswagen Leasing GmbH, Gifhorner Str. 57, 38112 Braunschweig. Das Angebot richtet sich an Einzelabnehmer. Die Berechnung basiert auf derzeit gültigen Konditionen. Für ein individuelles Angebot wenden Sie sich bitte an Ihren Audi Partner. Angebot nur gültig bei teilnehmenden Händlern. ",
+    "items" : [ "B4B4", "YM", "GBAAT41_2024" ],
+    "mbv-ids" : {
+      "exteriorColor" : "F14 B4B4",
+      "interiorColor" : "F56     YM",
+      "model" : "GBAAT4\\1",
+      "modelyear" : "2024",
+      "prstring" : "50064\\2024|GBAAT4\\1|F14 B4B4|F56     YM",
+      "salesgroup" : "50064"
+    },
+    "model" : "GBAAT41_2024",
+    "modelPrice" : "22.300,00 EUR",
+    "modelyear" : "2024",
+    "optionsPrice" : "0,00 EUR",
+    "price" : "22.300,00 EUR",
+    "prices" : {
+      "financeableTotal" : "22.300,00 EUR",
+      "financeableTotalRaw" : 22300.0,
+      "model" : "22.300,00 EUR",
+      "modelRaw" : 22300.0,
+      "nonFinanceableTotal" : "0,00 EUR",
+      "nonFinanceableTotalRaw" : 0.0,
+      "options" : "0,00 EUR",
+      "optionsRaw" : 0.0,
+      "total" : "22.300,00 EUR",
+      "totalRate" : "232,00 EUR",
+      "totalRateRaw" : 232.0,
+      "totalRaw" : 22300.0
+    },
+    "prstring" : "GBAAT41_2024|B4B4|YM",
+    "rate" : "232,00 EUR",
+    "rawModelPrice" : 22300.0,
+    "rawOptionsPrice" : 0.0,
+    "rawPrice" : 22300.0,
+    "showWltpWarning" : false,
+    "stock-car-attrs" : {
+      "attrs" : [ "Audi-Sport.false", "CARLINE.50064\\2024", "TRIMLINE.tl_notrimline", "airbag-type.side-airbags-front", "anti-theft-type.immobilizer", "assistance-system-type.voice-control", "badge.sportback", "body-doors.5", "body-type.sportback", "brake-material.default", "carline.a1sb", "chassis-type.default", "color-type.uni", "convenience-type.child-seat-holder", "drive-train.default", "drive.fwd", "engine-technology.tfsi", "engine-type.combustion", "exterior-color.white", "fuel-type.gasoline", "gear-type.manual", "gear.5-speed", "interface-type.phone", "interior-color-carpet.black", "interior-color-dashboard.black", "interior-color-headlining.gray", "interior-color-seats.black", "light-type.halogen", "locking-system-type.central-locking", "material.cloth", "mbv-handbook.50064", "model-group-range.a1", "model-range.a1", "modelCode.GBAAT4", "modelYear.2024", "seat-type.normal", "steering-type.default", "steering-wheel-material.default", "steering-wheel-type.multi-function", "trimline.default", "type.interface", "tyre-season.summer", "vtp-drivetrain.gasoline", "wheel-material.steel", "wheel-size.15", "wheel-type.default" ]
+    },
+    "techdata" : {
+      "acceleration" : "11,0 s",
+      "carbon-dioxide-emissions" : "124 g/km (WLTP)",
+      "consumption-combined" : "5,5 l/100km (WLTP)",
+      "consumption-extraurban" : "-",
+      "consumption-urban" : "-",
+      "efficiency-class" : "-",
+      "nedc-co2-combined" : "-",
+      "nedc-consumption-combined" : "-",
+      "nedc-consumption-extra-urban" : "-",
+      "nedc-consumption-urban" : "-",
+      "nox-combined" : "40500,0",
+      "tank-capacity" : "40 l",
+      "top-speed" : "193",
+      "warnings" : "Missing NEDC value for EE calculation: [NedcValueType: CO_2, NedcPhaseType: COMBINED, FuelType: PETROL, EnergyManagementType: PURE]",
+      "wltp-co2-combined" : "124 g/km",
+      "wltp-co2-extra-high" : "128 g/km",
+      "wltp-co2-high" : "106 g/km",
+      "wltp-co2-low" : "159 g/km",
+      "wltp-co2-medium" : "120 g/km",
+      "wltp-consumption-combined" : "5,5 l/100km",
+      "wltp-consumption-extra-high" : "5,6 l/100km",
+      "wltp-consumption-high" : "4,7 l/100km",
+      "wltp-consumption-low" : "7,0 l/100km",
+      "wltp-consumption-medium" : "5,3 l/100km",
+      "wltp-nox-combined" : "40500,0"
+    },
+    "wltp-status" : {
+      "engineType" : "ICE",
+      "fuelTypes" : [ "PETROL" ],
+      "nedcForConfComplete" : true,
+      "nedcMandatory" : false,
+      "nedcRangeComplete" : true,
+      "nedcRangeMandatory" : false,
+      "warnings" : [ "Missing NEDC value for EE calculation: [NedcValueType: CO_2, NedcPhaseType: COMBINED, FuelType: PETROL, EnergyManagementType: PURE]" ],
+      "wltpComputationStatus" : "OK",
+      "wltpForConfComplete" : true,
+      "wltpMandatory" : false,
+      "wltpRangeComplete" : true,
+      "wltpRangeInconsistent" : false,
+      "wltpRangeMandatory" : false,
+      "wltpRelevant" : true
+    }
+  },
+  "header" : {
+    "context" : "nemo-de:de",
+    "hiddenRevision" : "0",
+    "logged-in" : false,
+    "manualRevision" : "85",
+    "marketVersion" : "mv-258",
+    "mode" : "price",
+    "statuscode" : 200,
+    "subsession" : "373105576-1",
+    "taggedVersion" : "mv-258",
+    "version" : "a1sb-GB-20231129-173741"
+  },
+  "items" : {
+    "00A" : {
+      "id" : "00A",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0A2" : {
+      "id" : "0A2",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0AR" : {
+      "id" : "0AR",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0AS" : {
+      "id" : "0AS",
+      "itemType" : "equipment",
+      "packageDescription" : "<dl><dt>ersetzt durch:</dt><dd class=\"replaced\">andere Funktion</dd></dl>",
+      "status" : "11001"
+    },
+    "0B1" : {
+      "id" : "0B1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0C0" : {
+      "id" : "0C0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0E0E" : {
+      "id" : "0E0E",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "0EH1" : {
+      "id" : "0EH1",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "0EM" : {
+      "id" : "0EM",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0FD" : {
+      "id" : "0FD",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0K0" : {
+      "id" : "0K0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0LW" : {
+      "id" : "0LW",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0N1" : {
+      "id" : "0N1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0N7" : {
+      "id" : "0N7",
+      "itemType" : "equipment",
+      "packageDescription" : "<dl><dt>ersetzt durch:</dt><dd class=\"replaced\">andere Funktion</dd></dl>",
+      "status" : "11001"
+    },
+    "0TD" : {
+      "id" : "0TD",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0TD_in_WK8" : {
+      "id" : "0TD_in_WK8",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "0TD_in_WQS" : {
+      "id" : "0TD_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "0UA" : {
+      "id" : "0UA",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "0UB" : {
+      "id" : "0UB",
+      "itemType" : "equipment",
+      "price" : "30,00 EUR",
+      "priceValue" : 30.0,
+      "status" : "11100"
+    },
+    "0UC" : {
+      "id" : "0UC",
+      "itemType" : "equipment",
+      "price" : "30,00 EUR",
+      "priceValue" : 30.0,
+      "status" : "11100"
+    },
+    "0UF" : {
+      "id" : "0UF",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "0UF_in_WK8" : {
+      "id" : "0UF_in_WK8",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "0UK" : {
+      "id" : "0UK",
+      "itemType" : "equipment",
+      "price" : "30,00 EUR",
+      "priceValue" : 30.0,
+      "status" : "11100"
+    },
+    "0UL" : {
+      "id" : "0UL",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "0UL_in_WQS" : {
+      "id" : "0UL_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "0VC" : {
+      "id" : "0VC",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "0Y1" : {
+      "id" : "0Y1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1A7" : {
+      "id" : "1A7",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1AS" : {
+      "id" : "1AS",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "1D0" : {
+      "id" : "1D0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1E5" : {
+      "id" : "1E5",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1EX" : {
+      "id" : "1EX",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1G8" : {
+      "id" : "1G8",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1G9" : {
+      "id" : "1G9",
+      "itemType" : "equipment",
+      "price" : "90,00 EUR",
+      "priceValue" : 90.0,
+      "status" : "11000"
+    },
+    "1I0" : {
+      "id" : "1I0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1JP" : {
+      "id" : "1JP",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1JS" : {
+      "id" : "1JS",
+      "itemType" : "equipment",
+      "price" : "200,00 EUR",
+      "priceValue" : 200.0,
+      "status" : "11000"
+    },
+    "1JS_in_PA2" : {
+      "id" : "1JS_in_PA2",
+      "itemType" : "equipmentContent",
+      "price" : "450,00 EUR",
+      "priceValue" : 450.0,
+      "status" : "11000"
+    },
+    "1KA" : {
+      "id" : "1KA",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht kundenrelevant",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "1KD" : {
+      "id" : "1KD",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "1KD_in_PA2" : {
+      "id" : "1KD_in_PA2",
+      "itemType" : "equipmentContent",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "1L0" : {
+      "id" : "1L0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1N1" : {
+      "id" : "1N1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1PA" : {
+      "id" : "1PA",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "1PE" : {
+      "id" : "1PE",
+      "itemType" : "equipment",
+      "price" : "35,00 EUR",
+      "priceValue" : 35.0,
+      "status" : "11000"
+    },
+    "1S1" : {
+      "id" : "1S1",
+      "itemType" : "equipment",
+      "price" : "25,00 EUR",
+      "priceValue" : 25.0,
+      "status" : "11000"
+    },
+    "1S2" : {
+      "id" : "1S2",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1SA" : {
+      "id" : "1SA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1T3" : {
+      "id" : "1T3",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1TG" : {
+      "id" : "1TG",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1W0" : {
+      "id" : "1W0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "AUDIWEB-1341",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "1X0" : {
+      "id" : "1X0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1X0E" : {
+      "id" : "1X0E",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "1X1X" : {
+      "id" : "1X1X",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "1XA" : {
+      "id" : "1XA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1XC" : {
+      "id" : "1XC",
+      "itemType" : "equipment",
+      "price" : "180,00 EUR",
+      "priceValue" : 180.0,
+      "status" : "11000"
+    },
+    "1XH1" : {
+      "id" : "1XH1",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "1XW" : {
+      "id" : "1XW",
+      "itemType" : "equipment",
+      "price" : "260,00 EUR",
+      "priceValue" : 260.0,
+      "status" : "11000"
+    },
+    "1Y3" : {
+      "id" : "1Y3",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1Z0" : {
+      "id" : "1Z0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "1Z6" : {
+      "id" : "1Z6",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "1ZG" : {
+      "id" : "1ZG",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "1ZQ" : {
+      "id" : "1ZQ",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "1ZQ_in_PA2" : {
+      "id" : "1ZQ_in_PA2",
+      "itemType" : "equipmentContent",
+      "price" : "450,00 EUR",
+      "priceValue" : 450.0,
+      "status" : "11000"
+    },
+    "2C5" : {
+      "id" : "2C5",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "2D0E" : {
+      "id" : "2D0E",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "2D2D" : {
+      "id" : "2D2D",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "2DH1" : {
+      "id" : "2DH1",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "2H0" : {
+      "id" : "2H0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "2JB" : {
+      "id" : "2JB",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "2KR" : {
+      "id" : "2KR",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "2PF" : {
+      "id" : "2PF",
+      "itemType" : "equipment",
+      "price" : "375,00 EUR",
+      "priceValue" : 375.0,
+      "status" : "11000"
+    },
+    "2UA" : {
+      "id" : "2UA",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "2WA" : {
+      "id" : "2WA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "2WX" : {
+      "id" : "2WX",
+      "itemType" : "equipment",
+      "price" : "650,00 EUR",
+      "priceValue" : 650.0,
+      "status" : "11000"
+    },
+    "2XA" : {
+      "id" : "2XA",
+      "itemType" : "equipment",
+      "price" : "1.100,00 EUR",
+      "priceValue" : 1100.0,
+      "status" : "11000"
+    },
+    "2XG" : {
+      "id" : "2XG",
+      "itemType" : "equipment",
+      "price" : "1.450,00 EUR",
+      "priceValue" : 1450.0,
+      "status" : "11000"
+    },
+    "2Y0E" : {
+      "id" : "2Y0E",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "2Y2Y" : {
+      "id" : "2Y2Y",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "2YH1" : {
+      "id" : "2YH1",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "2Z0" : {
+      "id" : "2Z0",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "2Z7" : {
+      "id" : "2Z7",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "2Z8" : {
+      "id" : "2Z8",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "31K" : {
+      "id" : "31K",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "3A2" : {
+      "id" : "3A2",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "3FA" : {
+      "id" : "3FA",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht kundenrelevant",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "3G0" : {
+      "id" : "3G0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "3GA" : {
+      "id" : "3GA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "3GD" : {
+      "id" : "3GD",
+      "itemType" : "equipment",
+      "price" : "50,00 EUR",
+      "priceValue" : 50.0,
+      "status" : "11000"
+    },
+    "3GD_in_WDC" : {
+      "id" : "3GD_in_WDC",
+      "itemType" : "equipmentContent",
+      "price" : "2.200,00 EUR",
+      "priceValue" : 2200.0,
+      "status" : "11000"
+    },
+    "3H0" : {
+      "id" : "3H0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "3L1" : {
+      "id" : "3L1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "3L3" : {
+      "id" : "3L3",
+      "itemType" : "equipment",
+      "price" : "80,00 EUR",
+      "priceValue" : 80.0,
+      "status" : "11000"
+    },
+    "3L3_in_PS1" : {
+      "id" : "3L3_in_PS1",
+      "itemType" : "equipmentContent",
+      "price" : "340,00 EUR",
+      "priceValue" : 340.0,
+      "status" : "11100"
+    },
+    "3L3_in_WK8" : {
+      "id" : "3L3_in_WK8",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "3L3_in_WQS" : {
+      "id" : "3L3_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "3NZ" : {
+      "id" : "3NZ",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "3Q6" : {
+      "id" : "3Q6",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "3QT" : {
+      "id" : "3QT",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "3ZU" : {
+      "id" : "3ZU",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "40I" : {
+      "id" : "40I",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "4A0" : {
+      "id" : "4A0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Wunsch VE-D12 lt. Mail K. Hemmann, 22.09.2020\nA1* nicht kundenrelevant",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "4A3" : {
+      "id" : "4A3",
+      "itemType" : "equipment",
+      "price" : "300,00 EUR",
+      "priceValue" : 300.0,
+      "status" : "11000"
+    },
+    "4BI" : {
+      "id" : "4BI",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "4F2" : {
+      "id" : "4F2",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "4F2_in_PG3" : {
+      "id" : "4F2_in_PG3",
+      "itemType" : "equipmentContent",
+      "price" : "710,00 EUR",
+      "priceValue" : 710.0,
+      "status" : "11000"
+    },
+    "4GF" : {
+      "id" : "4GF",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "4GP" : {
+      "id" : "4GP",
+      "itemType" : "equipment",
+      "price" : "70,00 EUR",
+      "priceValue" : 70.0,
+      "status" : "11000"
+    },
+    "4I2" : {
+      "id" : "4I2",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "4I3" : {
+      "id" : "4I3",
+      "itemType" : "equipment",
+      "price" : "390,00 EUR",
+      "priceValue" : 390.0,
+      "status" : "11000"
+    },
+    "4I3_in_WDC" : {
+      "id" : "4I3_in_WDC",
+      "itemType" : "equipmentContent",
+      "price" : "2.200,00 EUR",
+      "priceValue" : 2200.0,
+      "status" : "11000"
+    },
+    "4K4" : {
+      "id" : "4K4",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "4K4_in_PG2" : {
+      "id" : "4K4_in_PG2",
+      "itemType" : "equipmentContent",
+      "price" : "320,00 EUR",
+      "priceValue" : 320.0,
+      "status" : "11000"
+    },
+    "4KC" : {
+      "id" : "4KC",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "4KF" : {
+      "id" : "4KF",
+      "itemType" : "equipment",
+      "price" : "350,00 EUR",
+      "priceValue" : 350.0,
+      "status" : "11000"
+    },
+    "4L2" : {
+      "id" : "4L2",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "4L6" : {
+      "id" : "4L6",
+      "itemType" : "equipment",
+      "price" : "150,00 EUR",
+      "priceValue" : 150.0,
+      "status" : "11000"
+    },
+    "4P0" : {
+      "id" : "4P0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "4R4" : {
+      "id" : "4R4",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht kundenrelevant",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "4UF" : {
+      "id" : "4UF",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "4X3" : {
+      "id" : "4X3",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "4ZA" : {
+      "id" : "4ZA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "5D1" : {
+      "id" : "5D1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "5J1" : {
+      "id" : "5J1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "5J3" : {
+      "id" : "5J3",
+      "itemType" : "equipment",
+      "price" : "250,00 EUR",
+      "priceValue" : 250.0,
+      "status" : "11000"
+    },
+    "5K0" : {
+      "id" : "5K0",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "5K7" : {
+      "id" : "5K7",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "5MA" : {
+      "id" : "5MA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "5MB" : {
+      "id" : "5MB",
+      "itemType" : "equipment",
+      "price" : "70,00 EUR",
+      "priceValue" : 70.0,
+      "status" : "11100"
+    },
+    "5MC" : {
+      "id" : "5MC",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "5MC_in_WK8" : {
+      "id" : "5MC_in_WK8",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "5MJ" : {
+      "id" : "5MJ",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "5MJ_in_WQS" : {
+      "id" : "5MJ_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "5RU" : {
+      "id" : "5RU",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "5SL" : {
+      "id" : "5SL",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "5ZF" : {
+      "id" : "5ZF",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "6A0" : {
+      "id" : "6A0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "6E0" : {
+      "id" : "6E0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "6E3" : {
+      "id" : "6E3",
+      "itemType" : "equipment",
+      "price" : "150,00 EUR",
+      "priceValue" : 150.0,
+      "status" : "11000"
+    },
+    "6F0" : {
+      "id" : "6F0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "6F7" : {
+      "id" : "6F7",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "6F7_in_WQS" : {
+      "id" : "6F7_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "6FA" : {
+      "id" : "6FA",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "6FB" : {
+      "id" : "6FB",
+      "itemType" : "equipment",
+      "price" : "100,00 EUR",
+      "priceValue" : 100.0,
+      "status" : "11100"
+    },
+    "6FE" : {
+      "id" : "6FE",
+      "itemType" : "equipment",
+      "price" : "250,00 EUR",
+      "priceValue" : 250.0,
+      "status" : "11100"
+    },
+    "6FJ" : {
+      "id" : "6FJ",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "6H0" : {
+      "id" : "6H0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "6H4" : {
+      "id" : "6H4",
+      "itemType" : "equipment",
+      "price" : "400,00 EUR",
+      "priceValue" : 400.0,
+      "status" : "11100"
+    },
+    "6I3" : {
+      "id" : "6I3",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "6K2" : {
+      "id" : "6K2",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "6K4" : {
+      "id" : "6K4",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "6K4_in_PCG" : {
+      "id" : "6K4_in_PCG",
+      "itemType" : "equipmentContent",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "6NJ" : {
+      "id" : "6NJ",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "6NQ" : {
+      "id" : "6NQ",
+      "itemType" : "equipment",
+      "price" : "200,00 EUR",
+      "priceValue" : 200.0,
+      "status" : "11000"
+    },
+    "6NQ_in_WQS" : {
+      "id" : "6NQ_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "6PA" : {
+      "id" : "6PA",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "6PC" : {
+      "id" : "6PC",
+      "itemType" : "equipment",
+      "packageDescription" : "<dl><dt>ersetzt durch:</dt><dd class=\"replaced\">andere Funktion</dd></dl>",
+      "status" : "11001"
+    },
+    "6XC" : {
+      "id" : "6XC",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "6XD" : {
+      "id" : "6XD",
+      "itemType" : "equipment",
+      "price" : "100,00 EUR",
+      "priceValue" : 100.0,
+      "status" : "11000"
+    },
+    "6XD_in_WDC" : {
+      "id" : "6XD_in_WDC",
+      "itemType" : "equipmentContent",
+      "price" : "2.200,00 EUR",
+      "priceValue" : 2200.0,
+      "status" : "11000"
+    },
+    "6XE" : {
+      "id" : "6XE",
+      "itemType" : "equipment",
+      "price" : "250,00 EUR",
+      "priceValue" : 250.0,
+      "status" : "11000"
+    },
+    "7AA" : {
+      "id" : "7AA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "7AL" : {
+      "id" : "7AL",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "7AL_in_PG2" : {
+      "id" : "7AL_in_PG2",
+      "itemType" : "equipmentContent",
+      "price" : "320,00 EUR",
+      "priceValue" : 320.0,
+      "status" : "11000"
+    },
+    "7AL_in_PG3" : {
+      "id" : "7AL_in_PG3",
+      "itemType" : "equipmentContent",
+      "price" : "710,00 EUR",
+      "priceValue" : 710.0,
+      "status" : "11000"
+    },
+    "7E0" : {
+      "id" : "7E0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "7F9" : {
+      "id" : "7F9",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "7HA" : {
+      "id" : "7HA",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "7HB" : {
+      "id" : "7HB",
+      "itemType" : "equipment",
+      "price" : "150,00 EUR",
+      "priceValue" : 150.0,
+      "status" : "11000"
+    },
+    "7HB_in_WK8" : {
+      "id" : "7HB_in_WK8",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "7K1" : {
+      "id" : "7K1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "7L6" : {
+      "id" : "7L6",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "7M3" : {
+      "id" : "7M3",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "7M3_in_WK8" : {
+      "id" : "7M3_in_WK8",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "7M5" : {
+      "id" : "7M5",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "7P0" : {
+      "id" : "7P0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "7P4" : {
+      "id" : "7P4",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "7P4_in_PS1" : {
+      "id" : "7P4_in_PS1",
+      "itemType" : "equipmentContent",
+      "price" : "340,00 EUR",
+      "priceValue" : 340.0,
+      "status" : "11100"
+    },
+    "7P4_in_WK8" : {
+      "id" : "7P4_in_WK8",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "7P4_in_WQS" : {
+      "id" : "7P4_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "7Q0" : {
+      "id" : "7Q0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "7UG" : {
+      "id" : "7UG",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "7UG_in_PNA" : {
+      "id" : "7UG_in_PNA",
+      "itemType" : "equipmentContent",
+      "price" : "1.965,00 EUR",
+      "priceValue" : 1965.0,
+      "status" : "11000"
+    },
+    "7UH" : {
+      "id" : "7UH",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "7UH_in_PNC" : {
+      "id" : "7UH_in_PNC",
+      "itemType" : "equipmentContent",
+      "price" : "805,00 EUR",
+      "priceValue" : 805.0,
+      "status" : "11000"
+    },
+    "7W0" : {
+      "id" : "7W0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "7W1" : {
+      "id" : "7W1",
+      "itemType" : "equipment",
+      "price" : "200,00 EUR",
+      "priceValue" : 200.0,
+      "status" : "11000"
+    },
+    "7X1" : {
+      "id" : "7X1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "7X2" : {
+      "id" : "7X2",
+      "itemType" : "equipment",
+      "price" : "320,00 EUR",
+      "priceValue" : 320.0,
+      "status" : "11000"
+    },
+    "7X5" : {
+      "id" : "7X5",
+      "itemType" : "equipment",
+      "price" : "420,00 EUR",
+      "priceValue" : 420.0,
+      "status" : "11000"
+    },
+    "7Y0" : {
+      "id" : "7Y0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "7Y1" : {
+      "id" : "7Y1",
+      "itemType" : "equipment",
+      "price" : "350,00 EUR",
+      "priceValue" : 350.0,
+      "status" : "11000"
+    },
+    "8FA" : {
+      "id" : "8FA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "8G0" : {
+      "id" : "8G0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "8G1" : {
+      "id" : "8G1",
+      "itemType" : "equipment",
+      "price" : "135,00 EUR",
+      "priceValue" : 135.0,
+      "status" : "11000"
+    },
+    "8GU" : {
+      "id" : "8GU",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "irrelevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8ID" : {
+      "id" : "8ID",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "8IT" : {
+      "id" : "8IT",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "8IT_in_PX2" : {
+      "id" : "8IT_in_PX2",
+      "itemType" : "equipmentContent",
+      "price" : "980,00 EUR",
+      "priceValue" : 980.0,
+      "status" : "11000"
+    },
+    "8K4" : {
+      "id" : "8K4",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "8M1" : {
+      "id" : "8M1",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Wunsch VE-D12 lt. Mail K. Hemmann, 22.09.2020\nRS 3: MBVR-4226, 20.07.21",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8N6" : {
+      "id" : "8N6",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht kundenrelevant, MBVR-1247, 03.03.2020",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8Q1" : {
+      "id" : "8Q1",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht kundenrelevant",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8Q3" : {
+      "id" : "8Q3",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht kundenrelevant",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8Q3_in_PX2" : {
+      "id" : "8Q3_in_PX2",
+      "itemType" : "equipmentContent",
+      "message" : [ {
+        "text" : "nicht kundenrelevant",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8QM" : {
+      "id" : "8QM",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8RL" : {
+      "id" : "8RL",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "8T6" : {
+      "id" : "8T6",
+      "itemType" : "equipment",
+      "price" : "280,00 EUR",
+      "priceValue" : 280.0,
+      "status" : "11000"
+    },
+    "8T7" : {
+      "id" : "8T7",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "8T7_in_PCG" : {
+      "id" : "8T7_in_PCG",
+      "itemType" : "equipmentContent",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "8T9" : {
+      "id" : "8T9",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "8TB" : {
+      "id" : "8TB",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Wunsch VE-D12 lt. Mail K. Hemmann, 22.09.2020\nA1* / Q2 * nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8VA" : {
+      "id" : "8VA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "8VG" : {
+      "id" : "8VG",
+      "itemType" : "equipment",
+      "price" : "250,00 EUR",
+      "priceValue" : 250.0,
+      "status" : "11000"
+    },
+    "8VM" : {
+      "id" : "8VM",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "8VM_in_PX2" : {
+      "id" : "8VM_in_PX2",
+      "itemType" : "equipmentContent",
+      "price" : "980,00 EUR",
+      "priceValue" : 980.0,
+      "status" : "11000"
+    },
+    "8W1" : {
+      "id" : "8W1",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8WA" : {
+      "id" : "8WA",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8X0" : {
+      "id" : "8X0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "8X1" : {
+      "id" : "8X1",
+      "itemType" : "equipment",
+      "price" : "255,00 EUR",
+      "priceValue" : 255.0,
+      "status" : "11000"
+    },
+    "8Z5" : {
+      "id" : "8Z5",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "9AK" : {
+      "id" : "9AK",
+      "itemType" : "equipment",
+      "price" : "400,00 EUR",
+      "priceValue" : 400.0,
+      "status" : "11000"
+    },
+    "9JA" : {
+      "id" : "9JA",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "9JD" : {
+      "id" : "9JD",
+      "itemType" : "equipment",
+      "price" : "30,00 EUR",
+      "priceValue" : 30.0,
+      "status" : "11000"
+    },
+    "9M0" : {
+      "id" : "9M0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "9S0" : {
+      "id" : "9S0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "9S1" : {
+      "id" : "9S1",
+      "itemType" : "equipment",
+      "price" : "150,00 EUR",
+      "priceValue" : 150.0,
+      "status" : "11000"
+    },
+    "9S1_in_WDC" : {
+      "id" : "9S1_in_WDC",
+      "itemType" : "equipmentContent",
+      "price" : "2.200,00 EUR",
+      "priceValue" : 2200.0,
+      "status" : "11000"
+    },
+    "9VD" : {
+      "id" : "9VD",
+      "itemType" : "equipment",
+      "price" : "270,00 EUR",
+      "priceValue" : 270.0,
+      "status" : "11000"
+    },
+    "9VD_in_WDC" : {
+      "id" : "9VD_in_WDC",
+      "itemType" : "equipmentContent",
+      "price" : "2.200,00 EUR",
+      "priceValue" : 2200.0,
+      "status" : "11000"
+    },
+    "9VS" : {
+      "id" : "9VS",
+      "itemType" : "equipment",
+      "price" : "750,00 EUR",
+      "priceValue" : 750.0,
+      "status" : "11000"
+    },
+    "9ZE" : {
+      "id" : "9ZE",
+      "itemType" : "equipment",
+      "price" : "350,00 EUR",
+      "priceValue" : 350.0,
+      "status" : "11000"
+    },
+    "9ZX" : {
+      "id" : "9ZX",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "A51" : {
+      "id" : "A51",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "A60" : {
+      "id" : "A60",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "A9F" : {
+      "id" : "A9F",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "AQ0" : {
+      "id" : "AQ0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "AR" : {
+      "id" : "AR",
+      "itemType" : "rawInteriorColor",
+      "status" : "11000"
+    },
+    "AV1" : {
+      "id" : "AV1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "AW1" : {
+      "id" : "AW1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "B01" : {
+      "id" : "B01",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "B0A" : {
+      "id" : "B0A",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "B10E" : {
+      "id" : "B10E",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "B1B1" : {
+      "id" : "B1B1",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "B1H1" : {
+      "id" : "B1H1",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "B40E" : {
+      "id" : "B40E",
+      "itemType" : "exteriorColor",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "B4B4" : {
+      "id" : "B4B4",
+      "itemType" : "exteriorColor",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11010"
+    },
+    "B4H1" : {
+      "id" : "B4H1",
+      "itemType" : "exteriorColor",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "BODY_0E" : {
+      "id" : "BODY_0E",
+      "itemType" : "bodyColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "BODY_1X" : {
+      "id" : "BODY_1X",
+      "itemType" : "bodyColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "BODY_2D" : {
+      "id" : "BODY_2D",
+      "itemType" : "bodyColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "BODY_2Y" : {
+      "id" : "BODY_2Y",
+      "itemType" : "bodyColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "BODY_B1" : {
+      "id" : "BODY_B1",
+      "itemType" : "bodyColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "BODY_B4" : {
+      "id" : "BODY_B4",
+      "itemType" : "bodyColor",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11010"
+    },
+    "BODY_H1" : {
+      "id" : "BODY_H1",
+      "itemType" : "bodyColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "BODY_M4" : {
+      "id" : "BODY_M4",
+      "itemType" : "bodyColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "BODY_N8" : {
+      "id" : "BODY_N8",
+      "itemType" : "bodyColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "C00" : {
+      "id" : "C00",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "C01" : {
+      "id" : "C01",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C02" : {
+      "id" : "C02",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C03" : {
+      "id" : "C03",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C18" : {
+      "id" : "C18",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C19" : {
+      "id" : "C19",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C20" : {
+      "id" : "C20",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C21" : {
+      "id" : "C21",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C22" : {
+      "id" : "C22",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C23" : {
+      "id" : "C23",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C25" : {
+      "id" : "C25",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C26" : {
+      "id" : "C26",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C27" : {
+      "id" : "C27",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C28" : {
+      "id" : "C28",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C29" : {
+      "id" : "C29",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C2B" : {
+      "id" : "C2B",
+      "itemType" : "equipment",
+      "price" : "1.300,00 EUR",
+      "priceValue" : 1300.0,
+      "status" : "11000"
+    },
+    "C2D" : {
+      "id" : "C2D",
+      "itemType" : "equipment",
+      "price" : "1.100,00 EUR",
+      "priceValue" : 1100.0,
+      "status" : "11000"
+    },
+    "C30" : {
+      "id" : "C30",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C31" : {
+      "id" : "C31",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C33" : {
+      "id" : "C33",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C34" : {
+      "id" : "C34",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C35" : {
+      "id" : "C35",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "C36" : {
+      "id" : "C36",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "C3V" : {
+      "id" : "C3V",
+      "itemType" : "equipment",
+      "price" : "450,00 EUR",
+      "priceValue" : 450.0,
+      "status" : "11000"
+    },
+    "C5I" : {
+      "id" : "C5I",
+      "itemType" : "equipment",
+      "price" : "2.250,00 EUR",
+      "priceValue" : 2250.0,
+      "status" : "11000"
+    },
+    "C5Q" : {
+      "id" : "C5Q",
+      "itemType" : "equipment",
+      "price" : "1.750,00 EUR",
+      "priceValue" : 1750.0,
+      "status" : "11000"
+    },
+    "CP3" : {
+      "id" : "CP3",
+      "itemType" : "equipment",
+      "price" : "1.800,00 EUR",
+      "priceValue" : 1800.0,
+      "status" : "11000"
+    },
+    "CP4" : {
+      "id" : "CP4",
+      "itemType" : "equipment",
+      "price" : "1.650,00 EUR",
+      "priceValue" : 1650.0,
+      "status" : "11000"
+    },
+    "CQ6" : {
+      "id" : "CQ6",
+      "itemType" : "equipment",
+      "price" : "1.750,00 EUR",
+      "priceValue" : 1750.0,
+      "status" : "11000"
+    },
+    "CV1" : {
+      "id" : "CV1",
+      "itemType" : "equipment",
+      "price" : "2.850,00 EUR",
+      "priceValue" : 2850.0,
+      "status" : "11000"
+    },
+    "DI6" : {
+      "id" : "DI6",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "E0A" : {
+      "id" : "E0A",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "EA0" : {
+      "id" : "EA0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "EA1" : {
+      "id" : "EA1",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EA2" : {
+      "id" : "EA2",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EA3" : {
+      "id" : "EA3",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EA4" : {
+      "id" : "EA4",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EA5" : {
+      "id" : "EA5",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EA6" : {
+      "id" : "EA6",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EA7" : {
+      "id" : "EA7",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EA8" : {
+      "id" : "EA8",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EA9" : {
+      "id" : "EA9",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EB3" : {
+      "id" : "EB3",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EB4" : {
+      "id" : "EB4",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EF0" : {
+      "id" : "EF0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "EL1" : {
+      "id" : "EL1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "EL5" : {
+      "id" : "EL5",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EM0" : {
+      "id" : "EM0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "ER1" : {
+      "id" : "ER1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "EW0" : {
+      "id" : "EW0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Mail Julia Hauck 06.02.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "EW1" : {
+      "id" : "EW1",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EW2" : {
+      "id" : "EW2",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EW3" : {
+      "id" : "EW3",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EW4" : {
+      "id" : "EW4",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EW5" : {
+      "id" : "EW5",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EW6" : {
+      "id" : "EW6",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EW7" : {
+      "id" : "EW7",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EW8" : {
+      "id" : "EW8",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EW9" : {
+      "id" : "EW9",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EY1" : {
+      "id" : "EY1",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EY2" : {
+      "id" : "EY2",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EY3" : {
+      "id" : "EY3",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EY4" : {
+      "id" : "EY4",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EY5" : {
+      "id" : "EY5",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EY6" : {
+      "id" : "EY6",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EY7" : {
+      "id" : "EY7",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "EY8" : {
+      "id" : "EY8",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "F0A" : {
+      "id" : "F0A",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "F0C" : {
+      "id" : "F0C",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "F0Y" : {
+      "id" : "F0Y",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "F41" : {
+      "id" : "F41",
+      "itemType" : "equipment",
+      "price" : "2.950,00 EUR",
+      "priceValue" : 2950.0,
+      "status" : "11000"
+    },
+    "FA0" : {
+      "id" : "FA0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "FA4" : {
+      "id" : "FA4",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "FM0" : {
+      "id" : "FM0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "https://imt.dasburo.com/browse/AUDIWEB-1466",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "FQ0" : {
+      "id" : "FQ0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "FQ1" : {
+      "id" : "FQ1",
+      "itemType" : "equipment",
+      "packageDescription" : "<dl><dt>ersetzt durch:</dt><dd class=\"replaced\">andere Funktion</dd></dl>",
+      "status" : "11001"
+    },
+    "FU0" : {
+      "id" : "FU0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "G01" : {
+      "id" : "G01",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "G04" : {
+      "id" : "G04",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "G0C" : {
+      "id" : "G0C",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "GB0" : {
+      "id" : "GB0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "GB1" : {
+      "id" : "GB1",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "GBAAHG1_2024" : {
+      "id" : "GBAAHG1_2024",
+      "itemType" : "model",
+      "price" : "27.800,00 EUR",
+      "priceValue" : 27800.0,
+      "status" : "11000"
+    },
+    "GBAAMC1_2024" : {
+      "id" : "GBAAMC1_2024",
+      "itemType" : "model",
+      "price" : "23.600,00 EUR",
+      "priceValue" : 23600.0,
+      "status" : "11000"
+    },
+    "GBAAMG1_2024" : {
+      "id" : "GBAAMG1_2024",
+      "itemType" : "model",
+      "price" : "25.300,00 EUR",
+      "priceValue" : 25300.0,
+      "status" : "11000"
+    },
+    "GBAAT41_2024" : {
+      "id" : "GBAAT41_2024",
+      "itemType" : "model",
+      "price" : "22.300,00 EUR",
+      "priceValue" : 22300.0,
+      "status" : "11010"
+    },
+    "GBAATG1_2024" : {
+      "id" : "GBAATG1_2024",
+      "itemType" : "model",
+      "price" : "24.000,00 EUR",
+      "priceValue" : 24000.0,
+      "status" : "11000"
+    },
+    "GBABHG1_2024" : {
+      "id" : "GBABHG1_2024",
+      "itemType" : "model",
+      "price" : "29.000,00 EUR",
+      "priceValue" : 29000.0,
+      "status" : "11000"
+    },
+    "GBABMC1_2024" : {
+      "id" : "GBABMC1_2024",
+      "itemType" : "model",
+      "price" : "24.800,00 EUR",
+      "priceValue" : 24800.0,
+      "status" : "11000"
+    },
+    "GBABMG1_2024" : {
+      "id" : "GBABMG1_2024",
+      "itemType" : "model",
+      "price" : "26.500,00 EUR",
+      "priceValue" : 26500.0,
+      "status" : "11000"
+    },
+    "GBABT41_2024" : {
+      "id" : "GBABT41_2024",
+      "itemType" : "model",
+      "price" : "23.500,00 EUR",
+      "priceValue" : 23500.0,
+      "status" : "11000"
+    },
+    "GBABTG1_2024" : {
+      "id" : "GBABTG1_2024",
+      "itemType" : "model",
+      "price" : "25.200,00 EUR",
+      "priceValue" : 25200.0,
+      "status" : "11000"
+    },
+    "GBACFG1_2024" : {
+      "id" : "GBACFG1_2024",
+      "itemType" : "model",
+      "price" : "32.100,00 EUR",
+      "priceValue" : 32100.0,
+      "status" : "11000"
+    },
+    "GBACHG1_2024" : {
+      "id" : "GBACHG1_2024",
+      "itemType" : "model",
+      "price" : "30.100,00 EUR",
+      "priceValue" : 30100.0,
+      "status" : "11000"
+    },
+    "GBACMC1_2024" : {
+      "id" : "GBACMC1_2024",
+      "itemType" : "model",
+      "price" : "25.900,00 EUR",
+      "priceValue" : 25900.0,
+      "status" : "11000"
+    },
+    "GBACMG1_2024" : {
+      "id" : "GBACMG1_2024",
+      "itemType" : "model",
+      "price" : "27.600,00 EUR",
+      "priceValue" : 27600.0,
+      "status" : "11000"
+    },
+    "GBACT41_2024" : {
+      "id" : "GBACT41_2024",
+      "itemType" : "model",
+      "price" : "24.600,00 EUR",
+      "priceValue" : 24600.0,
+      "status" : "11000"
+    },
+    "GBACTG1_2024" : {
+      "id" : "GBACTG1_2024",
+      "itemType" : "model",
+      "price" : "26.300,00 EUR",
+      "priceValue" : 26300.0,
+      "status" : "11000"
+    },
+    "GT6" : {
+      "id" : "GT6",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "H10E" : {
+      "id" : "H10E",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "H1H1" : {
+      "id" : "H1H1",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "H9H" : {
+      "id" : "H9H",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "H9J" : {
+      "id" : "H9J",
+      "itemType" : "equipment",
+      "packageDescription" : "<dl><dt>ersetzt durch:</dt><dd class=\"replaced\">andere Funktion</dd></dl>",
+      "status" : "11001"
+    },
+    "I09" : {
+      "id" : "I09",
+      "itemType" : "equipment",
+      "packageDescription" : "<dl><dt>ersetzt durch:</dt><dd class=\"replaced\">andere Funktion</dd></dl>",
+      "status" : "11001"
+    },
+    "I10" : {
+      "id" : "I10",
+      "itemType" : "equipment",
+      "packageDescription" : "<dl><dt>ersetzt durch:</dt><dd class=\"replaced\">andere Funktion</dd></dl>",
+      "status" : "11001"
+    },
+    "I8W" : {
+      "id" : "I8W",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "I8Y" : {
+      "id" : "I8Y",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "I8Y_in_PNA" : {
+      "id" : "I8Y_in_PNA",
+      "itemType" : "equipmentContent",
+      "price" : "1.965,00 EUR",
+      "priceValue" : 1965.0,
+      "status" : "11000"
+    },
+    "I8Y_in_PNC" : {
+      "id" : "I8Y_in_PNC",
+      "itemType" : "equipmentContent",
+      "price" : "805,00 EUR",
+      "priceValue" : 805.0,
+      "status" : "11000"
+    },
+    "IT0" : {
+      "id" : "IT0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "IT3" : {
+      "id" : "IT3",
+      "itemType" : "equipment",
+      "price" : "250,00 EUR",
+      "priceValue" : 250.0,
+      "status" : "11000"
+    },
+    "IT4" : {
+      "id" : "IT4",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "IX1" : {
+      "id" : "IX1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "J4J" : {
+      "id" : "J4J",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "K8R" : {
+      "id" : "K8R",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "KA0" : {
+      "id" : "KA0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "KA2" : {
+      "id" : "KA2",
+      "itemType" : "equipment",
+      "price" : "350,00 EUR",
+      "priceValue" : 350.0,
+      "status" : "11000"
+    },
+    "KH6" : {
+      "id" : "KH6",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "KK3" : {
+      "id" : "KK3",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "KR" : {
+      "id" : "KR",
+      "itemType" : "rawInteriorColor",
+      "status" : "11000"
+    },
+    "KU" : {
+      "id" : "KU",
+      "itemType" : "rawInteriorColor",
+      "status" : "11000"
+    },
+    "KV" : {
+      "id" : "KV",
+      "itemType" : "rawInteriorColor",
+      "status" : "11000"
+    },
+    "KW" : {
+      "id" : "KW",
+      "itemType" : "rawInteriorColor",
+      "status" : "11000"
+    },
+    "K_MSIBN0B_YM" : {
+      "id" : "K_MSIBN0B_YM",
+      "itemType" : "interiorTile",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11010"
+    },
+    "K_MSIBN0D_KR" : {
+      "id" : "K_MSIBN0D_KR",
+      "itemType" : "interiorTile",
+      "price" : "60,00 EUR",
+      "priceValue" : 60.0,
+      "status" : "11000"
+    },
+    "K_MSIBN0L_ZV" : {
+      "id" : "K_MSIBN0L_ZV",
+      "itemType" : "interiorTile",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "K_MSIBN2T_KU" : {
+      "id" : "K_MSIBN2T_KU",
+      "itemType" : "interiorTile",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "K_MSIBN2T_ZV" : {
+      "id" : "K_MSIBN2T_ZV",
+      "itemType" : "interiorTile",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "K_MSIBN4M_KW" : {
+      "id" : "K_MSIBN4M_KW",
+      "itemType" : "interiorTile",
+      "price" : "850,00 EUR",
+      "priceValue" : 850.0,
+      "status" : "11000"
+    },
+    "K_MSIBN4M_ZV" : {
+      "id" : "K_MSIBN4M_ZV",
+      "itemType" : "interiorTile",
+      "price" : "850,00 EUR",
+      "priceValue" : 850.0,
+      "status" : "11000"
+    },
+    "K_MSIBN5K_AR" : {
+      "id" : "K_MSIBN5K_AR",
+      "itemType" : "interiorTile",
+      "price" : "500,00 EUR",
+      "priceValue" : 500.0,
+      "status" : "11000"
+    },
+    "K_MSIBN5K_TV" : {
+      "id" : "K_MSIBN5K_TV",
+      "itemType" : "interiorTile",
+      "price" : "500,00 EUR",
+      "priceValue" : 500.0,
+      "status" : "11000"
+    },
+    "K_MSIBN5L_KV" : {
+      "id" : "K_MSIBN5L_KV",
+      "itemType" : "interiorTile",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "K_MSIBN7V_AR" : {
+      "id" : "K_MSIBN7V_AR",
+      "itemType" : "interiorTile",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "K_MSIBN7V_TV" : {
+      "id" : "K_MSIBN7V_TV",
+      "itemType" : "interiorTile",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "L0L" : {
+      "id" : "L0L",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "M40E" : {
+      "id" : "M40E",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "M4H1" : {
+      "id" : "M4H1",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "M4M4" : {
+      "id" : "M4M4",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "MTYPE_ATTR0V0" : {
+      "id" : "MTYPE_ATTR0V0",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR0V1" : {
+      "id" : "MTYPE_ATTR0V1",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR1V0" : {
+      "id" : "MTYPE_ATTR1V0",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR1V1" : {
+      "id" : "MTYPE_ATTR1V1",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR2V0" : {
+      "id" : "MTYPE_ATTR2V0",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR2V1" : {
+      "id" : "MTYPE_ATTR2V1",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR2V2" : {
+      "id" : "MTYPE_ATTR2V2",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR2V3" : {
+      "id" : "MTYPE_ATTR2V3",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR3V0" : {
+      "id" : "MTYPE_ATTR3V0",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR3V1" : {
+      "id" : "MTYPE_ATTR3V1",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR3V2" : {
+      "id" : "MTYPE_ATTR3V2",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "MTYPE_ATTR3V3" : {
+      "id" : "MTYPE_ATTR3V3",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "N0B" : {
+      "id" : "N0B",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "N0D" : {
+      "id" : "N0D",
+      "itemType" : "equipment",
+      "price" : "60,00 EUR",
+      "priceValue" : 60.0,
+      "status" : "11100"
+    },
+    "N0L" : {
+      "id" : "N0L",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11100"
+    },
+    "N2T" : {
+      "id" : "N2T",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11100"
+    },
+    "N4M" : {
+      "id" : "N4M",
+      "itemType" : "equipment",
+      "price" : "850,00 EUR",
+      "priceValue" : 850.0,
+      "status" : "11100"
+    },
+    "N5K" : {
+      "id" : "N5K",
+      "itemType" : "equipment",
+      "price" : "500,00 EUR",
+      "priceValue" : 500.0,
+      "status" : "11100"
+    },
+    "N5L" : {
+      "id" : "N5L",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11100"
+    },
+    "N7V" : {
+      "id" : "N7V",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11100"
+    },
+    "N80E" : {
+      "id" : "N80E",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "N8H1" : {
+      "id" : "N8H1",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "N8N8" : {
+      "id" : "N8N8",
+      "itemType" : "exteriorColor",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "NI0" : {
+      "id" : "NI0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "NZ2" : {
+      "id" : "NZ2",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "PA2" : {
+      "id" : "PA2",
+      "itemType" : "equipment",
+      "price" : "450,00 EUR",
+      "priceValue" : 450.0,
+      "status" : "11000"
+    },
+    "PCG" : {
+      "id" : "PCG",
+      "itemType" : "equipment",
+      "price" : "550,00 EUR",
+      "priceValue" : 550.0,
+      "status" : "11000"
+    },
+    "PG2" : {
+      "id" : "PG2",
+      "itemType" : "equipment",
+      "price" : "320,00 EUR",
+      "priceValue" : 320.0,
+      "status" : "11000"
+    },
+    "PG3" : {
+      "id" : "PG3",
+      "itemType" : "equipment",
+      "price" : "710,00 EUR",
+      "priceValue" : 710.0,
+      "status" : "11000"
+    },
+    "PNA" : {
+      "id" : "PNA",
+      "itemType" : "equipment",
+      "price" : "1.965,00 EUR",
+      "priceValue" : 1965.0,
+      "status" : "11000"
+    },
+    "PNC" : {
+      "id" : "PNC",
+      "itemType" : "equipment",
+      "price" : "805,00 EUR",
+      "priceValue" : 805.0,
+      "status" : "11000"
+    },
+    "PS1" : {
+      "id" : "PS1",
+      "itemType" : "equipment",
+      "price" : "340,00 EUR",
+      "priceValue" : 340.0,
+      "status" : "11100"
+    },
+    "PX2" : {
+      "id" : "PX2",
+      "itemType" : "equipment",
+      "price" : "980,00 EUR",
+      "priceValue" : 980.0,
+      "status" : "11000"
+    },
+    "Q13" : {
+      "id" : "Q13",
+      "itemType" : "equipment",
+      "price" : "155,00 EUR",
+      "priceValue" : 155.0,
+      "status" : "11000"
+    },
+    "Q1A" : {
+      "id" : "Q1A",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "Q4H" : {
+      "id" : "Q4H",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "Q4H_in_PS1" : {
+      "id" : "Q4H_in_PS1",
+      "itemType" : "equipmentContent",
+      "price" : "340,00 EUR",
+      "priceValue" : 340.0,
+      "status" : "11100"
+    },
+    "Q4H_in_WK8" : {
+      "id" : "Q4H_in_WK8",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "Q4H_in_WQS" : {
+      "id" : "Q4H_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "QE0" : {
+      "id" : "QE0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "QE1" : {
+      "id" : "QE1",
+      "itemType" : "equipment",
+      "price" : "110,00 EUR",
+      "priceValue" : 110.0,
+      "status" : "11000"
+    },
+    "QG1" : {
+      "id" : "QG1",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "QH1" : {
+      "id" : "QH1",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "QI6" : {
+      "id" : "QI6",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "QJ0" : {
+      "id" : "QJ0",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Migration",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "QJ1" : {
+      "id" : "QJ1",
+      "itemType" : "equipment",
+      "price" : "70,00 EUR",
+      "priceValue" : 70.0,
+      "status" : "11000"
+    },
+    "QK2" : {
+      "id" : "QK2",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "QQ0" : {
+      "id" : "QQ0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "QQ1" : {
+      "id" : "QQ1",
+      "itemType" : "equipment",
+      "price" : "150,00 EUR",
+      "priceValue" : 150.0,
+      "status" : "11000"
+    },
+    "QQ2" : {
+      "id" : "QQ2",
+      "itemType" : "equipment",
+      "price" : "300,00 EUR",
+      "priceValue" : 300.0,
+      "status" : "11000"
+    },
+    "QQ2_in_WK8" : {
+      "id" : "QQ2_in_WK8",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "QR8" : {
+      "id" : "QR8",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "QR9" : {
+      "id" : "QR9",
+      "itemType" : "equipment",
+      "price" : "200,00 EUR",
+      "priceValue" : 200.0,
+      "status" : "11000"
+    },
+    "QV3" : {
+      "id" : "QV3",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "ROOF_0E" : {
+      "id" : "ROOF_0E",
+      "itemType" : "roofColor",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "ROOF_1X" : {
+      "id" : "ROOF_1X",
+      "itemType" : "roofColor",
+      "status" : "00000"
+    },
+    "ROOF_2D" : {
+      "id" : "ROOF_2D",
+      "itemType" : "roofColor",
+      "status" : "00000"
+    },
+    "ROOF_2Y" : {
+      "id" : "ROOF_2Y",
+      "itemType" : "roofColor",
+      "status" : "00000"
+    },
+    "ROOF_B1" : {
+      "id" : "ROOF_B1",
+      "itemType" : "roofColor",
+      "status" : "00000"
+    },
+    "ROOF_B4" : {
+      "id" : "ROOF_B4",
+      "itemType" : "roofColor",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11010"
+    },
+    "ROOF_H1" : {
+      "id" : "ROOF_H1",
+      "itemType" : "roofColor",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "ROOF_M4" : {
+      "id" : "ROOF_M4",
+      "itemType" : "roofColor",
+      "status" : "00000"
+    },
+    "ROOF_N8" : {
+      "id" : "ROOF_N8",
+      "itemType" : "roofColor",
+      "status" : "00000"
+    },
+    "S0C" : {
+      "id" : "S0C",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "S0L" : {
+      "id" : "S0L",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "S2S" : {
+      "id" : "S2S",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "S6Y" : {
+      "id" : "S6Y",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "S9S" : {
+      "id" : "S9S",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "S9T" : {
+      "id" : "S9T",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "TC5" : {
+      "id" : "TC5",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "TV" : {
+      "id" : "TV",
+      "itemType" : "rawInteriorColor",
+      "status" : "11000"
+    },
+    "U5A" : {
+      "id" : "U5A",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "nicht relevant vor Kunde",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "UE7" : {
+      "id" : "UE7",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "UG0" : {
+      "id" : "UG0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "UG1" : {
+      "id" : "UG1",
+      "itemType" : "equipment",
+      "price" : "60,00 EUR",
+      "priceValue" : 60.0,
+      "status" : "11000"
+    },
+    "UI2" : {
+      "id" : "UI2",
+      "itemType" : "equipment",
+      "price" : "545,00 EUR",
+      "priceValue" : 545.0,
+      "status" : "11000"
+    },
+    "UI2_in_WDC" : {
+      "id" : "UI2_in_WDC",
+      "itemType" : "equipmentContent",
+      "price" : "2.200,00 EUR",
+      "priceValue" : 2200.0,
+      "status" : "11000"
+    },
+    "V0A" : {
+      "id" : "V0A",
+      "itemType" : "equipment",
+      "message" : [ {
+        "text" : "Nicht Endkundenrelevant",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "VF0" : {
+      "id" : "VF0",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "VF2" : {
+      "id" : "VF2",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "VF2_in_WQS" : {
+      "id" : "VF2_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "VL6" : {
+      "id" : "VL6",
+      "itemType" : "equipment",
+      "status" : "10011"
+    },
+    "VT5" : {
+      "id" : "VT5",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "VT5_in_WQS" : {
+      "id" : "VT5_in_WQS",
+      "itemType" : "equipmentContent",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "WDC" : {
+      "id" : "WDC",
+      "itemType" : "equipment",
+      "price" : "2.200,00 EUR",
+      "priceValue" : 2200.0,
+      "status" : "11000"
+    },
+    "WK8" : {
+      "id" : "WK8",
+      "itemType" : "equipment",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "WQS" : {
+      "id" : "WQS",
+      "itemType" : "equipment",
+      "price" : "1.150,00 EUR",
+      "priceValue" : 1150.0,
+      "status" : "11100"
+    },
+    "Y4K" : {
+      "id" : "Y4K",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "Y4R" : {
+      "id" : "Y4R",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "Y4V" : {
+      "id" : "Y4V",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "Y4Z" : {
+      "id" : "Y4Z",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "Y8A" : {
+      "id" : "Y8A",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "Y8B" : {
+      "id" : "Y8B",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "Y8C" : {
+      "id" : "Y8C",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "Y8V" : {
+      "id" : "Y8V",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "Y8W" : {
+      "id" : "Y8W",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "Y8Y" : {
+      "id" : "Y8Y",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YB7" : {
+      "id" : "YB7",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YB8" : {
+      "id" : "YB8",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YBC" : {
+      "id" : "YBC",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YBS" : {
+      "id" : "YBS",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YBW" : {
+      "id" : "YBW",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YBZ" : {
+      "id" : "YBZ",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YC9" : {
+      "id" : "YC9",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCA" : {
+      "id" : "YCA",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCB" : {
+      "id" : "YCB",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCD" : {
+      "id" : "YCD",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCF" : {
+      "id" : "YCF",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCI" : {
+      "id" : "YCI",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCJ" : {
+      "id" : "YCJ",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCK" : {
+      "id" : "YCK",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCL" : {
+      "id" : "YCL",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCM" : {
+      "id" : "YCM",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCN" : {
+      "id" : "YCN",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCO" : {
+      "id" : "YCO",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCP" : {
+      "id" : "YCP",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCQ" : {
+      "id" : "YCQ",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCR" : {
+      "id" : "YCR",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCS" : {
+      "id" : "YCS",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCT" : {
+      "id" : "YCT",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCV" : {
+      "id" : "YCV",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCW" : {
+      "id" : "YCW",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YCX" : {
+      "id" : "YCX",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YG5" : {
+      "id" : "YG5",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YGE" : {
+      "id" : "YGE",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YJT" : {
+      "id" : "YJT",
+      "itemType" : "equipment",
+      "price" : "31,00 EUR",
+      "priceValue" : 31.0,
+      "status" : "11000"
+    },
+    "YJU" : {
+      "id" : "YJU",
+      "itemType" : "equipment",
+      "price" : "26,00 EUR",
+      "priceValue" : 26.0,
+      "status" : "11000"
+    },
+    "YJV" : {
+      "id" : "YJV",
+      "itemType" : "equipment",
+      "price" : "26,00 EUR",
+      "priceValue" : 26.0,
+      "status" : "11000"
+    },
+    "YM" : {
+      "id" : "YM",
+      "itemType" : "rawInteriorColor",
+      "status" : "11010"
+    },
+    "YMJ" : {
+      "id" : "YMJ",
+      "itemType" : "equipment",
+      "price" : "0,00 EUR",
+      "priceValue" : 0.0,
+      "status" : "11000"
+    },
+    "YO1" : {
+      "id" : "YO1",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YO2" : {
+      "id" : "YO2",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YO3" : {
+      "id" : "YO3",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YO4" : {
+      "id" : "YO4",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YO5" : {
+      "id" : "YO5",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YO6" : {
+      "id" : "YO6",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YO7" : {
+      "id" : "YO7",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YO8" : {
+      "id" : "YO8",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YO9" : {
+      "id" : "YO9",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YOA" : {
+      "id" : "YOA",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YOB" : {
+      "id" : "YOB",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YOC" : {
+      "id" : "YOC",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YOD" : {
+      "id" : "YOD",
+      "itemType" : "equipment",
+      "status" : "00000"
+    },
+    "YYB" : {
+      "id" : "YYB",
+      "itemType" : "equipment",
+      "price" : "330,00 EUR",
+      "priceValue" : 330.0,
+      "status" : "11100"
+    },
+    "Z000071154" : {
+      "id" : "Z000071154",
+      "itemType" : "accessory",
+      "price" : "43,00 EUR",
+      "priceValue" : 43.0,
+      "status" : "11000"
+    },
+    "Z000071154A" : {
+      "id" : "Z000071154A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z000071154B" : {
+      "id" : "Z000071154B",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z000087009A" : {
+      "id" : "Z000087009A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z000087009AC" : {
+      "id" : "Z000087009AC",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z000087009AR" : {
+      "id" : "Z000087009AR",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z000087009AS" : {
+      "id" : "Z000087009AS",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z000087009B" : {
+      "id" : "Z000087009B",
+      "itemType" : "accessory",
+      "price" : "8,50 EUR",
+      "priceValue" : 8.5,
+      "status" : "11000"
+    },
+    "Z000087009C" : {
+      "id" : "Z000087009C",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z000087009D" : {
+      "id" : "Z000087009D",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z000087009F" : {
+      "id" : "Z000087009F",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z000096300__020" : {
+      "id" : "Z000096300__020",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z00A096301A_020" : {
+      "id" : "Z00A096301A_020",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z00A096302__020" : {
+      "id" : "Z00A096302__020",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z00A096315A_020" : {
+      "id" : "Z00A096315A_020",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z00A096317A_020" : {
+      "id" : "Z00A096317A_020",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z00A096325__020" : {
+      "id" : "Z00A096325__020",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z00A096329__020" : {
+      "id" : "Z00A096329__020",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z420093050C" : {
+      "id" : "Z420093050C",
+      "itemType" : "accessory",
+      "price" : "99,00 EUR",
+      "priceValue" : 99.0,
+      "status" : "11000"
+    },
+    "Z4F0071156" : {
+      "id" : "Z4F0071156",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4G0063511AA" : {
+      "id" : "Z4G0063511AA",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4G0063511AC" : {
+      "id" : "Z4G0063511AC",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4G0063511K" : {
+      "id" : "Z4G0063511K",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4G0069641A" : {
+      "id" : "Z4G0069641A",
+      "itemType" : "accessory",
+      "price" : "260,00 EUR",
+      "priceValue" : 260.0,
+      "status" : "11000"
+    },
+    "Z4G0071127" : {
+      "id" : "Z4G0071127",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4J1050001" : {
+      "id" : "Z4J1050001",
+      "itemType" : "accessory",
+      "price" : "1.965,00 EUR",
+      "priceValue" : 1965.0,
+      "status" : "11000"
+    },
+    "Z4J3050209" : {
+      "id" : "Z4J3050209",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4J3050209A" : {
+      "id" : "Z4J3050209A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4J3050209B" : {
+      "id" : "Z4J3050209B",
+      "itemType" : "accessory",
+      "price" : "8.900,00 EUR",
+      "priceValue" : 8900.0,
+      "status" : "11000"
+    },
+    "Z4K0051435" : {
+      "id" : "Z4K0051435",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K0051443" : {
+      "id" : "Z4K0051443",
+      "itemType" : "accessory",
+      "price" : "110,00 EUR",
+      "priceValue" : 110.0,
+      "status" : "11000"
+    },
+    "Z4K0063511" : {
+      "id" : "Z4K0063511",
+      "itemType" : "accessory",
+      "price" : "380,00 EUR",
+      "priceValue" : 380.0,
+      "status" : "11000"
+    },
+    "Z4K0063511A" : {
+      "id" : "Z4K0063511A",
+      "itemType" : "accessory",
+      "price" : "445,00 EUR",
+      "priceValue" : 445.0,
+      "status" : "11000"
+    },
+    "Z4K0064317__S9R" : {
+      "id" : "Z4K0064317__S9R",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K0064317__Y3U" : {
+      "id" : "Z4K0064317__Y3U",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K0064317__Z7G" : {
+      "id" : "Z4K0064317__Z7G",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K0064317__Z7S" : {
+      "id" : "Z4K0064317__Z7S",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K0071200__Y9B" : {
+      "id" : "Z4K0071200__Y9B",
+      "itemType" : "accessory",
+      "price" : "540,00 EUR",
+      "priceValue" : 540.0,
+      "status" : "11000"
+    },
+    "Z4K0096317" : {
+      "id" : "Z4K0096317",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K0096352" : {
+      "id" : "Z4K0096352",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K1064317__S9R" : {
+      "id" : "Z4K1064317__S9R",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K1064317__Y3U" : {
+      "id" : "Z4K1064317__Y3U",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K1064317__Z7G" : {
+      "id" : "Z4K1064317__Z7G",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K1064317__Z7S" : {
+      "id" : "Z4K1064317__Z7S",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K1071200__Y9B" : {
+      "id" : "Z4K1071200__Y9B",
+      "itemType" : "accessory",
+      "price" : "595,00 EUR",
+      "priceValue" : 595.0,
+      "status" : "11000"
+    },
+    "Z4K2064317__S9R" : {
+      "id" : "Z4K2064317__S9R",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K2064317__Y3U" : {
+      "id" : "Z4K2064317__Y3U",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K2064317__Z7G" : {
+      "id" : "Z4K2064317__Z7G",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K2064317__Z7S" : {
+      "id" : "Z4K2064317__Z7S",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K2071200__Y9B" : {
+      "id" : "Z4K2071200__Y9B",
+      "itemType" : "accessory",
+      "price" : "790,00 EUR",
+      "priceValue" : 790.0,
+      "status" : "11000"
+    },
+    "Z4K4064317__S9R" : {
+      "id" : "Z4K4064317__S9R",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K4064317__Y3U" : {
+      "id" : "Z4K4064317__Y3U",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K4064317__Z7G" : {
+      "id" : "Z4K4064317__Z7G",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K4064317__Z7S" : {
+      "id" : "Z4K4064317__Z7S",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4K4096325" : {
+      "id" : "Z4K4096325",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4KE050320" : {
+      "id" : "Z4KE050320",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4KE050320A" : {
+      "id" : "Z4KE050320A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4KE050320B" : {
+      "id" : "Z4KE050320B",
+      "itemType" : "accessory",
+      "price" : "100,00 EUR",
+      "priceValue" : 100.0,
+      "status" : "11000"
+    },
+    "Z4KE050320C" : {
+      "id" : "Z4KE050320C",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4KE050320D" : {
+      "id" : "Z4KE050320D",
+      "itemType" : "accessory",
+      "price" : "100,00 EUR",
+      "priceValue" : 100.0,
+      "status" : "11000"
+    },
+    "Z4KE050320E" : {
+      "id" : "Z4KE050320E",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4KE071156" : {
+      "id" : "Z4KE071156",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4KE071156A" : {
+      "id" : "Z4KE071156A",
+      "itemType" : "accessory",
+      "price" : "36,00 EUR",
+      "priceValue" : 36.0,
+      "status" : "11000"
+    },
+    "Z4KE093104" : {
+      "id" : "Z4KE093104",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4L0019819A" : {
+      "id" : "Z4L0019819A",
+      "itemType" : "accessory",
+      "price" : "39,00 EUR",
+      "priceValue" : 39.0,
+      "status" : "11000"
+    },
+    "Z4L0061609A" : {
+      "id" : "Z4L0061609A",
+      "itemType" : "accessory",
+      "price" : "27,50 EUR",
+      "priceValue" : 27.5,
+      "status" : "11000"
+    },
+    "Z4L0096353C" : {
+      "id" : "Z4L0096353C",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4L0096353__020" : {
+      "id" : "Z4L0096353__020",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4L1096372" : {
+      "id" : "Z4L1096372",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4M0019900" : {
+      "id" : "Z4M0019900",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4M0019901A" : {
+      "id" : "Z4M0019901A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4M0019902A" : {
+      "id" : "Z4M0019902A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4M0019904A_EUR" : {
+      "id" : "Z4M0019904A_EUR",
+      "itemType" : "accessory",
+      "price" : "339,00 EUR",
+      "priceValue" : 339.0,
+      "status" : "11000"
+    },
+    "Z4M0019907" : {
+      "id" : "Z4M0019907",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4M0019907A" : {
+      "id" : "Z4M0019907A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4M0061609" : {
+      "id" : "Z4M0061609",
+      "itemType" : "accessory",
+      "price" : "28,00 EUR",
+      "priceValue" : 28.0,
+      "status" : "11000"
+    },
+    "Z4M0071129" : {
+      "id" : "Z4M0071129",
+      "itemType" : "accessory",
+      "price" : "195,00 EUR",
+      "priceValue" : 195.0,
+      "status" : "11000"
+    },
+    "Z4M0071129A" : {
+      "id" : "Z4M0071129A",
+      "itemType" : "accessory",
+      "price" : "250,00 EUR",
+      "priceValue" : 250.0,
+      "status" : "11000"
+    },
+    "Z4M8065402" : {
+      "id" : "Z4M8065402",
+      "itemType" : "accessory",
+      "price" : "195,00 EUR",
+      "priceValue" : 195.0,
+      "status" : "11000"
+    },
+    "Z4M8071006A" : {
+      "id" : "Z4M8071006A",
+      "itemType" : "accessory",
+      "price" : "115,00 EUR",
+      "priceValue" : 115.0,
+      "status" : "11000"
+    },
+    "Z4M8071129" : {
+      "id" : "Z4M8071129",
+      "itemType" : "accessory",
+      "price" : "295,00 EUR",
+      "priceValue" : 295.0,
+      "status" : "11000"
+    },
+    "Z4M8096323B" : {
+      "id" : "Z4M8096323B",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z4M8096323__020" : {
+      "id" : "Z4M8096323__020",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A057800" : {
+      "id" : "Z80A057800",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A071128" : {
+      "id" : "Z80A071128",
+      "itemType" : "accessory",
+      "price" : "160,00 EUR",
+      "priceValue" : 160.0,
+      "status" : "11000"
+    },
+    "Z80A071215" : {
+      "id" : "Z80A071215",
+      "itemType" : "accessory",
+      "price" : "24,00 EUR",
+      "priceValue" : 24.0,
+      "status" : "11000"
+    },
+    "Z80A087000" : {
+      "id" : "Z80A087000",
+      "itemType" : "accessory",
+      "price" : "17,00 EUR",
+      "priceValue" : 17.0,
+      "status" : "11000"
+    },
+    "Z80A087009" : {
+      "id" : "Z80A087009",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A087009A" : {
+      "id" : "Z80A087009A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A087009B" : {
+      "id" : "Z80A087009B",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A096010" : {
+      "id" : "Z80A096010",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A096010A" : {
+      "id" : "Z80A096010A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A096010B" : {
+      "id" : "Z80A096010B",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A096010C" : {
+      "id" : "Z80A096010C",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A096010D" : {
+      "id" : "Z80A096010D",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A096010E" : {
+      "id" : "Z80A096010E",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A096150" : {
+      "id" : "Z80A096150",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A096150A" : {
+      "id" : "Z80A096150A",
+      "itemType" : "accessory",
+      "price" : "5,50 EUR",
+      "priceValue" : 5.5,
+      "status" : "11000"
+    },
+    "Z80A096311" : {
+      "id" : "Z80A096311",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z80A096325" : {
+      "id" : "Z80A096325",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z81A051629" : {
+      "id" : "Z81A051629",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z81A087009" : {
+      "id" : "Z81A087009",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z81A087009A" : {
+      "id" : "Z81A087009A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z81A087009B" : {
+      "id" : "Z81A087009B",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z81A096311" : {
+      "id" : "Z81A096311",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82A061197" : {
+      "id" : "Z82A061197",
+      "itemType" : "accessory",
+      "price" : "45,00 EUR",
+      "priceValue" : 45.0,
+      "status" : "11000"
+    },
+    "Z82A061511__041" : {
+      "id" : "Z82A061511__041",
+      "itemType" : "accessory",
+      "price" : "40,00 EUR",
+      "priceValue" : 40.0,
+      "status" : "11000"
+    },
+    "Z82A071455" : {
+      "id" : "Z82A071455",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82A071497A_AX1" : {
+      "count" : 4,
+      "id" : "Z82A071497A_AX1",
+      "itemType" : "accessory",
+      "price" : "1.312,00 EUR",
+      "price-singeValue" : 328.0,
+      "price-single" : "328,00 EUR",
+      "priceValue" : 1312.0,
+      "status" : "11000"
+    },
+    "Z82A071497__8Z8" : {
+      "count" : 4,
+      "id" : "Z82A071497__8Z8",
+      "itemType" : "accessory",
+      "price" : "1.208,00 EUR",
+      "price-singeValue" : 302.0,
+      "price-single" : "302,00 EUR",
+      "priceValue" : 1208.0,
+      "status" : "11000"
+    },
+    "Z82A071498__LT7" : {
+      "id" : "Z82A071498__LT7",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82A071801" : {
+      "id" : "Z82A071801",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82A071802" : {
+      "id" : "Z82A071802",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82A071803" : {
+      "id" : "Z82A071803",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82A073285__8Z8" : {
+      "count" : 4,
+      "id" : "Z82A073285__8Z8",
+      "itemType" : "accessory",
+      "price" : "704,00 EUR",
+      "price-singeValue" : 176.0,
+      "price-single" : "176,00 EUR",
+      "priceValue" : 704.0,
+      "status" : "11000"
+    },
+    "Z82A073287A_8Z8" : {
+      "count" : 4,
+      "id" : "Z82A073287A_8Z8",
+      "itemType" : "accessory",
+      "price" : "1.772,00 EUR",
+      "price-singeValue" : 443.0,
+      "price-single" : "443,00 EUR",
+      "priceValue" : 1772.0,
+      "status" : "11000"
+    },
+    "Z82A073287B_AX1" : {
+      "count" : 4,
+      "id" : "Z82A073287B_AX1",
+      "itemType" : "accessory",
+      "price" : "1.832,00 EUR",
+      "price-singeValue" : 458.0,
+      "price-single" : "458,00 EUR",
+      "priceValue" : 1832.0,
+      "status" : "11000"
+    },
+    "Z82A073287__LD8" : {
+      "count" : 4,
+      "id" : "Z82A073287__LD8",
+      "itemType" : "accessory",
+      "price" : "1.536,00 EUR",
+      "price-singeValue" : 384.0,
+      "price-single" : "384,00 EUR",
+      "priceValue" : 1536.0,
+      "status" : "11000"
+    },
+    "Z82A073566A_AX1" : {
+      "count" : 2,
+      "id" : "Z82A073566A_AX1",
+      "itemType" : "accessory",
+      "price" : "676,00 EUR",
+      "price-singeValue" : 338.0,
+      "price-single" : "338,00 EUR",
+      "priceValue" : 676.0,
+      "status" : "11000"
+    },
+    "Z82A073566__8Z8" : {
+      "count" : 2,
+      "id" : "Z82A073566__8Z8",
+      "itemType" : "accessory",
+      "price" : "616,00 EUR",
+      "price-singeValue" : 308.0,
+      "price-single" : "308,00 EUR",
+      "priceValue" : 616.0,
+      "status" : "11000"
+    },
+    "Z82A073666A_AX1" : {
+      "count" : 2,
+      "id" : "Z82A073666A_AX1",
+      "itemType" : "accessory",
+      "price" : "676,00 EUR",
+      "price-singeValue" : 338.0,
+      "price-single" : "338,00 EUR",
+      "priceValue" : 676.0,
+      "status" : "11000"
+    },
+    "Z82A073666__8Z8" : {
+      "count" : 2,
+      "id" : "Z82A073666__8Z8",
+      "itemType" : "accessory",
+      "price" : "616,00 EUR",
+      "price-singeValue" : 308.0,
+      "price-single" : "308,00 EUR",
+      "priceValue" : 616.0,
+      "status" : "11000"
+    },
+    "Z82A091387B" : {
+      "id" : "Z82A091387B",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82A091387C" : {
+      "id" : "Z82A091387C",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82B061275__MNO" : {
+      "id" : "Z82B061275__MNO",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82B061276__MNO" : {
+      "id" : "Z82B061276__MNO",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82B061501__041" : {
+      "id" : "Z82B061501__041",
+      "itemType" : "accessory",
+      "price" : "55,00 EUR",
+      "priceValue" : 55.0,
+      "status" : "11000"
+    },
+    "Z82B071496__AX1" : {
+      "id" : "Z82B071496__AX1",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82G061180" : {
+      "id" : "Z82G061180",
+      "itemType" : "accessory",
+      "price" : "82,00 EUR",
+      "priceValue" : 82.0,
+      "status" : "11000"
+    },
+    "Z82G071126" : {
+      "id" : "Z82G071126",
+      "itemType" : "accessory",
+      "price" : "265,00 EUR",
+      "priceValue" : 265.0,
+      "status" : "11000"
+    },
+    "Z82G075106" : {
+      "id" : "Z82G075106",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z82G075111" : {
+      "id" : "Z82G075111",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z89A071073" : {
+      "id" : "Z89A071073",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z89A096304" : {
+      "id" : "Z89A096304",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z89A096306" : {
+      "id" : "Z89A096306",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z89A096319B" : {
+      "id" : "Z89A096319B",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8R0052001E" : {
+      "id" : "Z8R0052001E",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8R0071156F" : {
+      "id" : "Z8R0071156F",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8R0096010D" : {
+      "id" : "Z8R0096010D",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8S0051435M" : {
+      "id" : "Z8S0051435M",
+      "itemType" : "accessory",
+      "price" : "33,00 EUR",
+      "priceValue" : 33.0,
+      "status" : "11000"
+    },
+    "Z8S0051435S" : {
+      "id" : "Z8S0051435S",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8U0017238" : {
+      "id" : "Z8U0017238",
+      "itemType" : "accessory",
+      "price" : "17,00 EUR",
+      "priceValue" : 17.0,
+      "status" : "11000"
+    },
+    "Z8U0054650" : {
+      "id" : "Z8U0054650",
+      "itemType" : "accessory",
+      "price" : "230,00 EUR",
+      "priceValue" : 230.0,
+      "status" : "11000"
+    },
+    "Z8U0054650A" : {
+      "id" : "Z8U0054650A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8U0061109" : {
+      "id" : "Z8U0061109",
+      "itemType" : "accessory",
+      "price" : "38,00 EUR",
+      "priceValue" : 38.0,
+      "status" : "11000"
+    },
+    "Z8V1064200" : {
+      "id" : "Z8V1064200",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8V1064205" : {
+      "id" : "Z8V1064205",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8X0019409" : {
+      "id" : "Z8X0019409",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8X0019409A" : {
+      "id" : "Z8X0019409A",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8X0019409B" : {
+      "id" : "Z8X0019409B",
+      "itemType" : "accessory",
+      "message" : [ {
+        "text" : "ausblendet durch aoz-hidden-flags",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "Z8X0061190A" : {
+      "id" : "Z8X0061190A",
+      "itemType" : "accessory",
+      "price" : "51,00 EUR",
+      "priceValue" : 51.0,
+      "status" : "11000"
+    },
+    "Z8X0093056A" : {
+      "id" : "Z8X0093056A",
+      "itemType" : "accessory",
+      "price" : "6,80 EUR",
+      "priceValue" : 6.8,
+      "status" : "11000"
+    },
+    "Z8Y0071000" : {
+      "id" : "Z8Y0071000",
+      "itemType" : "accessory",
+      "price" : "85,00 EUR",
+      "priceValue" : 85.0,
+      "status" : "11000"
+    },
+    "ZV" : {
+      "id" : "ZV",
+      "itemType" : "rawInteriorColor",
+      "status" : "11000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC001" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC001",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Farbkachel fehlt, 5.3.2020\nQ2 PA: Rendering fehlt, 03.09.2020",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC005" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC005",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC015" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC015",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC027" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC027",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC028" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC028",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kommunikationsfarbe Audi exclusive",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC030" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC030",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC032" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC032",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC034" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC034",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC037" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC037",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC038" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC038",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC042" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC042",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC051" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC051",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC058" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC058",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC059" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC059",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Farbkachel fehlt, 5.3.2020\nQ2 PA Rendering fehlt, 03.09.2020",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC060" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC060",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC062" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC062",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC063" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC063",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC067" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC067",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Renderings fehlen",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC070" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC070",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC071" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC071",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC079" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC079",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC080" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC080",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC081" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC081",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Renderings fehlen",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC084" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC084",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kommunikationsfarbe Audi Exclusive",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC085" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC085",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC086" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC086",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC087" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC087",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC088" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC088",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC089" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC089",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kommunikationsfarbe Audi exclusive",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC090" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC090",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19\nKein Angebot mehr MJ 2024, Lt Klaus Korger, 04.05.2023",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC091" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC091",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC092" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC092",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19\nKein Angebot mehr MJ 2024, Lt Klaus Korger, 04.05.2023",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC093" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC093",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Farbkachel fehlt, 5.3.2020\nKein Angebot MJ 2021",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC094" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC094",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19\nKein Angebot mehr MJ 2024, Lt Klaus Korger, 04.05.2023",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC095" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC095",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Farbkachel fehlt, 5.3.2020",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC096" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC096",
+      "itemType" : "exclusiveExteriorColor",
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC097" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC097",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC098" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC098",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19\nFarbe nicht mehr als Individuallackierung machbar, Mail M. Tschirne, 19.11.19\nFarbe in der Matrix von VS-22 enthalten - deshalb die Freigabe 12.03.20",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC099" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC099",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC101" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC101",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC102" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC102",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Farbkachel fehlt, 5.3.2020\nQ2 PA Rendering fehlt, 03.09.2020",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC103" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC103",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC104" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC104",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kommunikationsfarbe Audi exclusive",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC105" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC105",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC106" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC106",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC108" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC108",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC109" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC109",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Farbkachel fehlt, 5.3.2020\nRendert nicht, A8*, 27.01.22",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "exclusive_exterior_LC_PR_AEEXC110" : {
+      "id" : "exclusive_exterior_LC_PR_AEEXC110",
+      "itemType" : "exclusiveExteriorColor",
+      "message" : [ {
+        "text" : "Kein Angebot dieser Farben in diesen Carlines oder Renderings no,ch nicht produziert, 26.7.19 + Q2 PA, 03.09.2020\nFarbbezeichnung Falsch - 110 ist Arablau, 4.3.2020",
+        "type" : "debug"
+      } ],
+      "status" : "00000"
+    },
+    "trimline_advanced" : {
+      "id" : "trimline_advanced",
+      "itemType" : "trimline",
+      "status" : "11000"
+    },
+    "trimline_default" : {
+      "id" : "trimline_default",
+      "itemType" : "trimline",
+      "status" : "11010"
+    },
+    "trimline_sline" : {
+      "id" : "trimline_sline",
+      "itemType" : "trimline",
+      "status" : "11000"
+    }
+  },
+  "itemsUpdateMode" : "full"
+}
